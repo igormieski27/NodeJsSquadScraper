@@ -1,0 +1,5412 @@
+{
+  "times": {
+    "América-MG": {
+      "plantel": [
+        {
+          "nome": "Mateus Pasinato",
+          "posicao": "Goleiro",
+          "idade": "31",
+          "altura": "",
+          "pePreferido": "1,92m",
+          "valorDeMercado": 350000
+        },
+        {
+          "nome": "Jori",
+          "posicao": "Goleiro",
+          "idade": "27",
+          "altura": "1,90m",
+          "pePreferido": "direito",
+          "valorDeMercado": 300000
+        },
+        {
+          "nome": "Matheus Cavichioli",
+          "posicao": "Goleiro",
+          "idade": "37",
+          "altura": "",
+          "pePreferido": "1,92m",
+          "valorDeMercado": 150000
+        },
+        {
+          "nome": "Robson",
+          "posicao": "Goleiro",
+          "idade": "23",
+          "altura": "1,87m",
+          "pePreferido": "direito",
+          "valorDeMercado": 100000
+        },
+        {
+          "nome": "Iago Maidana",
+          "posicao": "Zagueiro",
+          "idade": "27",
+          "altura": "",
+          "pePreferido": "1,95m",
+          "valorDeMercado": 2000000
+        },
+        {
+          "nome": "Éder",
+          "posicao": "Zagueiro",
+          "idade": "28",
+          "altura": "1,84m",
+          "pePreferido": "direito",
+          "valorDeMercado": 1200000
+        },
+        {
+          "nome": "Esteban Burgos",
+          "posicao": "Zagueiro",
+          "idade": "31",
+          "altura": "",
+          "pePreferido": "1,91m",
+          "valorDeMercado": 700000
+        },
+        {
+          "nome": "Ricardo Silva",
+          "posicao": "Zagueiro",
+          "idade": "31",
+          "altura": "1,90m",
+          "pePreferido": "direito",
+          "valorDeMercado": 300000
+        },
+        {
+          "nome": "Wanderson",
+          "posicao": "Zagueiro",
+          "idade": "32",
+          "altura": "",
+          "pePreferido": "1,86m",
+          "valorDeMercado": 250000
+        },
+        {
+          "nome": "Júlio",
+          "posicao": "Zagueiro",
+          "idade": "19",
+          "altura": "1,86m",
+          "pePreferido": "direito",
+          "valorDeMercado": 100000
+        },
+        {
+          "nome": "Nicolas",
+          "posicao": "Lateral Esq.",
+          "idade": "26",
+          "altura": "",
+          "pePreferido": "1,81m",
+          "valorDeMercado": 1500000
+        },
+        {
+          "nome": "Marlon Lopes",
+          "posicao": "Lateral Esq.",
+          "idade": "29",
+          "altura": "1,77m",
+          "pePreferido": "esquerdo",
+          "valorDeMercado": 700000
+        },
+        {
+          "nome": "Danilo Avelar",
+          "posicao": "Lateral Esq.",
+          "idade": "34",
+          "altura": "",
+          "pePreferido": "1,85m",
+          "valorDeMercado": 250000
+        },
+        {
+          "nome": "Daniel Borges",
+          "posicao": "Lateral Dir.",
+          "idade": "30",
+          "altura": "1,74m",
+          "pePreferido": "direito",
+          "valorDeMercado": 800000
+        },
+        {
+          "nome": "Marcinho",
+          "posicao": "Lateral Dir.",
+          "idade": "27",
+          "altura": "",
+          "pePreferido": "1,78m",
+          "valorDeMercado": 700000
+        },
+        {
+          "nome": "Lucas Kal",
+          "posicao": "Volante",
+          "idade": "27",
+          "altura": "1,86m",
+          "pePreferido": "direito",
+          "valorDeMercado": 1700000
+        },
+        {
+          "nome": "Breno Cascardo",
+          "posicao": "Volante",
+          "idade": "19",
+          "altura": "",
+          "pePreferido": "1,83m",
+          "valorDeMercado": 600000
+        },
+        {
+          "nome": "Javier Méndez",
+          "posicao": "Volante",
+          "idade": "28",
+          "altura": "1,84m",
+          "pePreferido": "direito",
+          "valorDeMercado": 475000
+        },
+        {
+          "nome": "Juninho",
+          "posicao": "Volante",
+          "idade": "35",
+          "altura": "",
+          "pePreferido": "1,73m",
+          "valorDeMercado": 350000
+        },
+        {
+          "nome": "Alê",
+          "posicao": "Meia Central",
+          "idade": "33",
+          "altura": "1,84m",
+          "pePreferido": "direito",
+          "valorDeMercado": 350000
+        },
+        {
+          "nome": "Mateus Henrique",
+          "posicao": "Meia Central",
+          "idade": "20",
+          "altura": "",
+          "pePreferido": "1,78m",
+          "valorDeMercado": 150000
+        },
+        {
+          "nome": "Martín Benítez",
+          "posicao": "Meia Ofensivo",
+          "idade": "29",
+          "altura": "1,75m",
+          "pePreferido": "direito",
+          "valorDeMercado": 1400000
+        },
+        {
+          "nome": "Emmanuel Martínez",
+          "posicao": "Meia Ofensivo",
+          "idade": "29",
+          "altura": "",
+          "pePreferido": "1,69m",
+          "valorDeMercado": 1000000
+        },
+        {
+          "nome": "Matheusinho",
+          "posicao": "Meia Ofensivo",
+          "idade": "25",
+          "altura": "1,64m",
+          "pePreferido": "direito",
+          "valorDeMercado": 1000000
+        },
+        {
+          "nome": "Juan Cazares",
+          "posicao": "Meia Ofensivo",
+          "idade": "31",
+          "altura": "",
+          "pePreferido": "1,71m",
+          "valorDeMercado": 750000
+        },
+        {
+          "nome": "Rodriguinho",
+          "posicao": "Meia Ofensivo",
+          "idade": "20",
+          "altura": "1,70m",
+          "pePreferido": "esquerdo",
+          "valorDeMercado": 500000
+        },
+        {
+          "nome": "Pedrinho",
+          "posicao": "Ponta Esquerda",
+          "idade": "23",
+          "altura": "",
+          "pePreferido": "1,76m",
+          "valorDeMercado": 1800000
+        },
+        {
+          "nome": "Everaldo",
+          "posicao": "Ponta Esquerda",
+          "idade": "29",
+          "altura": "1,72m",
+          "pePreferido": "direito",
+          "valorDeMercado": 1000000
+        },
+        {
+          "nome": "Paulinho Bóia",
+          "posicao": "Ponta Esquerda",
+          "idade": "25",
+          "altura": "",
+          "pePreferido": "1,71m",
+          "valorDeMercado": 700000
+        },
+        {
+          "nome": "Felipe Azevedo",
+          "posicao": "Ponta Esquerda",
+          "idade": "36",
+          "altura": "1,74m",
+          "pePreferido": "esquerdo",
+          "valorDeMercado": 150000
+        },
+        {
+          "nome": "Adyson",
+          "posicao": "Ponta Direita",
+          "idade": "17",
+          "altura": "",
+          "pePreferido": "1,68m",
+          "valorDeMercado": 1000000
+        },
+        {
+          "nome": "Rodrigo Varanda",
+          "posicao": "Ponta Direita",
+          "idade": "20",
+          "altura": "1,80m",
+          "pePreferido": "direito",
+          "valorDeMercado": 750000
+        },
+        {
+          "nome": "Renato Kayzer",
+          "posicao": "Centroavante",
+          "idade": "27",
+          "altura": "",
+          "pePreferido": "1,78m",
+          "valorDeMercado": 1800000
+        },
+        {
+          "nome": "Mikael",
+          "posicao": "Centroavante",
+          "idade": "24",
+          "altura": "1,84m",
+          "pePreferido": "esquerdo",
+          "valorDeMercado": 1000000
+        },
+        {
+          "nome": "Gonzalo Mastriani",
+          "posicao": "Centroavante",
+          "idade": "30",
+          "altura": "",
+          "pePreferido": "1,80m",
+          "valorDeMercado": 900000
+        },
+        {
+          "nome": "Renato Marques",
+          "posicao": "Centroavante",
+          "idade": "19",
+          "altura": "1,80m",
+          "pePreferido": "direito",
+          "valorDeMercado": 350000
+        },
+        {
+          "nome": "Aloísio",
+          "posicao": "Centroavante",
+          "idade": "35",
+          "altura": "",
+          "pePreferido": "1,70m",
+          "valorDeMercado": 200000
+        },
+        {
+          "nome": "Wellington Paulista",
+          "posicao": "Centroavante",
+          "idade": "40",
+          "altura": "1,80m",
+          "pePreferido": "direito",
+          "valorDeMercado": 150000
+        }
+      ]
+    },
+    "Athletico-PR": {
+      "plantel": [
+        {
+          "nome": "Bento",
+          "posicao": "Goleiro",
+          "idade": "24",
+          "altura": "",
+          "pePreferido": "1,90m",
+          "valorDeMercado": 9000000
+        },
+        {
+          "nome": "Mycael",
+          "posicao": "Goleiro",
+          "idade": "19",
+          "altura": "1,91m",
+          "pePreferido": "esquerdo",
+          "valorDeMercado": 1200000
+        },
+        {
+          "nome": "Léo Linck",
+          "posicao": "Goleiro",
+          "idade": "22",
+          "altura": "",
+          "pePreferido": "1,94m",
+          "valorDeMercado": 800000
+        },
+        {
+          "nome": "Gabriel Pereira",
+          "posicao": "Goleiro",
+          "idade": "21",
+          "altura": "1,95m",
+          "pePreferido": "direito",
+          "valorDeMercado": 200000
+        },
+        {
+          "nome": "Zé Ivaldo",
+          "posicao": "Zagueiro",
+          "idade": "26",
+          "altura": "",
+          "pePreferido": "1,85m",
+          "valorDeMercado": 3000000
+        },
+        {
+          "nome": "Pedro Henrique",
+          "posicao": "Zagueiro",
+          "idade": "27",
+          "altura": "1,88m",
+          "pePreferido": "direito",
+          "valorDeMercado": 3000000
+        },
+        {
+          "nome": "Matheus Felipe",
+          "posicao": "Zagueiro",
+          "idade": "24",
+          "altura": "",
+          "pePreferido": "1,86m",
+          "valorDeMercado": 1200000
+        },
+        {
+          "nome": "Kaique Rocha",
+          "posicao": "Zagueiro",
+          "idade": "22",
+          "altura": "1,95m",
+          "pePreferido": "direito",
+          "valorDeMercado": 1000000
+        },
+        {
+          "nome": "Thiago Heleno",
+          "posicao": "Zagueiro",
+          "idade": "34",
+          "altura": "",
+          "pePreferido": "1,87m",
+          "valorDeMercado": 700000
+        },
+        {
+          "nome": "Cacá",
+          "posicao": "Zagueiro",
+          "idade": "24",
+          "altura": "1,87m",
+          "pePreferido": "direito",
+          "valorDeMercado": 600000
+        },
+        {
+          "nome": "Lucas Esquivel",
+          "posicao": "Lateral Esq.",
+          "idade": "21",
+          "altura": "",
+          "pePreferido": "1,83m",
+          "valorDeMercado": 1500000
+        },
+        {
+          "nome": "Fernando",
+          "posicao": "Lateral Esq.",
+          "idade": "23",
+          "altura": "1,81m",
+          "pePreferido": "esquerdo",
+          "valorDeMercado": 450000
+        },
+        {
+          "nome": "Vinicius Kaue",
+          "posicao": "Lateral Esq.",
+          "idade": "20",
+          "altura": "",
+          "pePreferido": "1,81m",
+          "valorDeMercado": 450000
+        },
+        {
+          "nome": "Khellven",
+          "posicao": "Lateral Dir.",
+          "idade": "22",
+          "altura": "1,76m",
+          "pePreferido": "direito",
+          "valorDeMercado": 7000000
+        },
+        {
+          "nome": "Bruno Peres",
+          "posicao": "Lateral Dir.",
+          "idade": "33",
+          "altura": "",
+          "pePreferido": "1,78m",
+          "valorDeMercado": 1000000
+        },
+        {
+          "nome": "Madson",
+          "posicao": "Lateral Dir.",
+          "idade": "31",
+          "altura": "1,82m",
+          "pePreferido": "direito",
+          "valorDeMercado": 700000
+        },
+        {
+          "nome": "Erick",
+          "posicao": "Volante",
+          "idade": "25",
+          "altura": "",
+          "pePreferido": "1,76m",
+          "valorDeMercado": 4000000
+        },
+        {
+          "nome": "Hugo Moura",
+          "posicao": "Volante",
+          "idade": "25",
+          "altura": "1,77m",
+          "pePreferido": "direito",
+          "valorDeMercado": 1500000
+        },
+        {
+          "nome": "Fernandinho",
+          "posicao": "Volante",
+          "idade": "38",
+          "altura": "",
+          "pePreferido": "1,79m",
+          "valorDeMercado": 600000
+        },
+        {
+          "nome": "Christian",
+          "posicao": "Meia Central",
+          "idade": "22",
+          "altura": "1,78m",
+          "pePreferido": "direito",
+          "valorDeMercado": 7000000
+        },
+        {
+          "nome": "Alex Santana",
+          "posicao": "Meia Central",
+          "idade": "28",
+          "altura": "",
+          "pePreferido": "1,82m",
+          "valorDeMercado": 2000000
+        },
+        {
+          "nome": "Arturo Vidal",
+          "posicao": "Meia Central",
+          "idade": "36",
+          "altura": "1,80m",
+          "pePreferido": "direito",
+          "valorDeMercado": 700000
+        },
+        {
+          "nome": "Bruno Zapelli",
+          "posicao": "Meia Ofensivo",
+          "idade": "21",
+          "altura": "",
+          "pePreferido": "1,81m",
+          "valorDeMercado": 5500000
+        },
+        {
+          "nome": "Vitor Bueno",
+          "posicao": "Meia Ofensivo",
+          "idade": "28",
+          "altura": "1,85m",
+          "pePreferido": "direito",
+          "valorDeMercado": 1500000
+        },
+        {
+          "nome": "Thiago Andrade",
+          "posicao": "Ponta Esquerda",
+          "idade": "22",
+          "altura": "",
+          "pePreferido": "1,79m",
+          "valorDeMercado": 5000000
+        },
+        {
+          "nome": "Tomás Cuello",
+          "posicao": "Ponta Esquerda",
+          "idade": "23",
+          "altura": "1,76m",
+          "pePreferido": "direito",
+          "valorDeMercado": 3000000
+        },
+        {
+          "nome": "Agustín Canobbio",
+          "posicao": "Ponta Direita",
+          "idade": "24",
+          "altura": "",
+          "pePreferido": "1,75m",
+          "valorDeMercado": 4000000
+        },
+        {
+          "nome": "Marcelo Cirino",
+          "posicao": "Ponta Direita",
+          "idade": "31",
+          "altura": "1,82m",
+          "pePreferido": "direito",
+          "valorDeMercado": 700000
+        },
+        {
+          "nome": "Emersonn",
+          "posicao": "Ponta Direita",
+          "idade": "19",
+          "altura": "",
+          "pePreferido": "1,86m",
+          "valorDeMercado": 600000
+        },
+        {
+          "nome": "Vitor Roque",
+          "posicao": "Centroavante",
+          "idade": "18",
+          "altura": "1,72m",
+          "pePreferido": "direito",
+          "valorDeMercado": 32000000
+        },
+        {
+          "nome": "Rômulo",
+          "posicao": "Centroavante",
+          "idade": "21",
+          "altura": "",
+          "pePreferido": "1,93m",
+          "valorDeMercado": 1700000
+        },
+        {
+          "nome": "Luciano Arriagada",
+          "posicao": "Centroavante",
+          "idade": "21",
+          "altura": "1,84m",
+          "pePreferido": "direito",
+          "valorDeMercado": 1000000
+        },
+        {
+          "nome": "Pablo",
+          "posicao": "Centroavante",
+          "idade": "31",
+          "altura": "",
+          "pePreferido": "1,85m",
+          "valorDeMercado": 900000
+        },
+        {
+          "nome": "Willian",
+          "posicao": "Centroavante",
+          "idade": "36",
+          "altura": "1,71m",
+          "pePreferido": "direito",
+          "valorDeMercado": 300000
+        }
+      ]
+    },
+    "Atlético-MG": {
+      "plantel": [
+        {
+          "nome": "Everson",
+          "posicao": "Goleiro",
+          "idade": "33",
+          "altura": "",
+          "pePreferido": "1,92m",
+          "valorDeMercado": 2000000
+        },
+        {
+          "nome": "Matheus Mendes",
+          "posicao": "Goleiro",
+          "idade": "24",
+          "altura": "1,91m",
+          "pePreferido": "ambos",
+          "valorDeMercado": 250000
+        },
+        {
+          "nome": "Gabriel Delfim",
+          "posicao": "Goleiro",
+          "idade": "21",
+          "altura": "",
+          "pePreferido": "1,89m",
+          "valorDeMercado": 100000
+        },
+        {
+          "nome": "Igor Rabello",
+          "posicao": "Zagueiro",
+          "idade": "28",
+          "altura": "1,90m",
+          "pePreferido": "direito",
+          "valorDeMercado": 2500000
+        },
+        {
+          "nome": "Bruno Fuchs",
+          "posicao": "Zagueiro",
+          "idade": "24",
+          "altura": "",
+          "pePreferido": "1,90m",
+          "valorDeMercado": 1800000
+        },
+        {
+          "nome": "Jemerson",
+          "posicao": "Zagueiro",
+          "idade": "31",
+          "altura": "1,84m",
+          "pePreferido": "direito",
+          "valorDeMercado": 1700000
+        },
+        {
+          "nome": "Mauricio Lemos",
+          "posicao": "Zagueiro",
+          "idade": "27",
+          "altura": "",
+          "pePreferido": "1,87m",
+          "valorDeMercado": 1500000
+        },
+        {
+          "nome": "Réver",
+          "posicao": "Zagueiro",
+          "idade": "38",
+          "altura": "1,92m",
+          "pePreferido": "direito",
+          "valorDeMercado": 150000
+        },
+        {
+          "nome": "Guilherme Arana",
+          "posicao": "Lateral Esq.",
+          "idade": "26",
+          "altura": "",
+          "pePreferido": "1,76m",
+          "valorDeMercado": 10000000
+        },
+        {
+          "nome": "Rubens",
+          "posicao": "Lateral Esq.",
+          "idade": "22",
+          "altura": "1,78m",
+          "pePreferido": "esquerdo",
+          "valorDeMercado": 4000000
+        },
+        {
+          "nome": "Renzo Saravia",
+          "posicao": "Lateral Dir.",
+          "idade": "30",
+          "altura": "",
+          "pePreferido": "1,78m",
+          "valorDeMercado": 2200000
+        },
+        {
+          "nome": "Mariano",
+          "posicao": "Lateral Dir.",
+          "idade": "37",
+          "altura": "1,77m",
+          "pePreferido": "direito",
+          "valorDeMercado": 300000
+        },
+        {
+          "nome": "Otávio",
+          "posicao": "Volante",
+          "idade": "29",
+          "altura": "",
+          "pePreferido": "1,73m",
+          "valorDeMercado": 4500000
+        },
+        {
+          "nome": "Rodrigo Battaglia",
+          "posicao": "Volante",
+          "idade": "32",
+          "altura": "1,87m",
+          "pePreferido": "direito",
+          "valorDeMercado": 1500000
+        },
+        {
+          "nome": "Alan Franco",
+          "posicao": "Meia Central",
+          "idade": "25",
+          "altura": "",
+          "pePreferido": "1,75m",
+          "valorDeMercado": 3000000
+        },
+        {
+          "nome": "Patrick",
+          "posicao": "Meia Central",
+          "idade": "31",
+          "altura": "1,76m",
+          "pePreferido": "esquerdo",
+          "valorDeMercado": 2500000
+        },
+        {
+          "nome": "Edenilson",
+          "posicao": "Meia Central",
+          "idade": "33",
+          "altura": "",
+          "pePreferido": "1,75m",
+          "valorDeMercado": 1800000
+        },
+        {
+          "nome": "Matías Zaracho",
+          "posicao": "Meia Ofensivo",
+          "idade": "25",
+          "altura": "1,71m",
+          "pePreferido": "direito",
+          "valorDeMercado": 10000000
+        },
+        {
+          "nome": "Igor Gomes",
+          "posicao": "Meia Ofensivo",
+          "idade": "24",
+          "altura": "",
+          "pePreferido": "1,83m",
+          "valorDeMercado": 5000000
+        },
+        {
+          "nome": "Hyoran",
+          "posicao": "Meia Ofensivo",
+          "idade": "30",
+          "altura": "1,74m",
+          "pePreferido": "direito",
+          "valorDeMercado": 2500000
+        },
+        {
+          "nome": "Paulinho",
+          "posicao": "Ponta Esquerda",
+          "idade": "23",
+          "altura": "",
+          "pePreferido": "1,77m",
+          "valorDeMercado": 10000000
+        },
+        {
+          "nome": "Cristian Pavón",
+          "posicao": "Ponta Esquerda",
+          "idade": "27",
+          "altura": "1,74m",
+          "pePreferido": "direito",
+          "valorDeMercado": 3500000
+        },
+        {
+          "nome": "Pedrinho",
+          "posicao": "Ponta Direita",
+          "idade": "25",
+          "altura": "",
+          "pePreferido": "1,72m",
+          "valorDeMercado": 8000000
+        },
+        {
+          "nome": "Hulk",
+          "posicao": "Centroavante",
+          "idade": "37",
+          "altura": "1,80m",
+          "pePreferido": "esquerdo",
+          "valorDeMercado": 2000000
+        },
+        {
+          "nome": "Eduardo Vargas",
+          "posicao": "Centroavante",
+          "idade": "33",
+          "altura": "",
+          "pePreferido": "1,74m",
+          "valorDeMercado": 1500000
+        },
+        {
+          "nome": "Alan Kardec",
+          "posicao": "Centroavante",
+          "idade": "34",
+          "altura": "1,90m",
+          "pePreferido": "direito",
+          "valorDeMercado": 500000
+        },
+        {
+          "nome": "Isaac",
+          "posicao": "Centroavante",
+          "idade": "19",
+          "altura": "",
+          "pePreferido": "1,85m",
+          "valorDeMercado": 300000
+        },
+        {
+          "nome": "Cadu",
+          "posicao": "Centroavante",
+          "idade": "19",
+          "altura": "1,88m",
+          "pePreferido": "direito",
+          "valorDeMercado": 300000
+        }
+      ]
+    },
+    "Bahia": {
+      "plantel": [
+        {
+          "nome": "Marcos Felipe",
+          "posicao": "Goleiro",
+          "idade": "27",
+          "altura": "",
+          "pePreferido": "1,88m",
+          "valorDeMercado": 1500000
+        },
+        {
+          "nome": "Adriel",
+          "posicao": "Goleiro",
+          "idade": "22",
+          "altura": "1,95m",
+          "pePreferido": "direito",
+          "valorDeMercado": 1200000
+        },
+        {
+          "nome": "Mateus Claus",
+          "posicao": "Goleiro",
+          "idade": "29",
+          "altura": "",
+          "pePreferido": "1,94m",
+          "valorDeMercado": 700000
+        },
+        {
+          "nome": "Danilo Fernandes",
+          "posicao": "Goleiro",
+          "idade": "35",
+          "altura": "1,88m",
+          "pePreferido": "direito",
+          "valorDeMercado": 350000
+        },
+        {
+          "nome": "Kanu",
+          "posicao": "Zagueiro",
+          "idade": "26",
+          "altura": "",
+          "pePreferido": "1,86m",
+          "valorDeMercado": 3500000
+        },
+        {
+          "nome": "Vitor Hugo",
+          "posicao": "Zagueiro",
+          "idade": "32",
+          "altura": "1,87m",
+          "pePreferido": "esquerdo",
+          "valorDeMercado": 3500000
+        },
+        {
+          "nome": "Raul Gustavo",
+          "posicao": "Zagueiro",
+          "idade": "24",
+          "altura": "",
+          "pePreferido": "1,89m",
+          "valorDeMercado": 3500000
+        },
+        {
+          "nome": "David Duarte",
+          "posicao": "Zagueiro",
+          "idade": "28",
+          "altura": "1,93m",
+          "pePreferido": "direito",
+          "valorDeMercado": 1000000
+        },
+        {
+          "nome": "Marcos Victor",
+          "posicao": "Zagueiro",
+          "idade": "21",
+          "altura": "",
+          "pePreferido": "1,84m",
+          "valorDeMercado": 250000
+        },
+        {
+          "nome": "Gabriel Xavier",
+          "posicao": "Zagueiro",
+          "idade": "22",
+          "altura": "1,90m",
+          "pePreferido": "direito",
+          "valorDeMercado": 200000
+        },
+        {
+          "nome": "Camilo Cándido",
+          "posicao": "Lateral Esq.",
+          "idade": "28",
+          "altura": "",
+          "pePreferido": "1,74m",
+          "valorDeMercado": 1500000
+        },
+        {
+          "nome": "Matheus Bahia",
+          "posicao": "Lateral Esq.",
+          "idade": "24",
+          "altura": "1,81m",
+          "pePreferido": "esquerdo",
+          "valorDeMercado": 1500000
+        },
+        {
+          "nome": "Ryan Carlos",
+          "posicao": "Lateral Esq.",
+          "idade": "21",
+          "altura": "",
+          "pePreferido": "1,72m",
+          "valorDeMercado": 500000
+        },
+        {
+          "nome": "Caio Roque",
+          "posicao": "Lateral Esq.",
+          "idade": "21",
+          "altura": "1,82m",
+          "pePreferido": "esquerdo",
+          "valorDeMercado": 400000
+        },
+        {
+          "nome": "Gilberto",
+          "posicao": "Lateral Dir.",
+          "idade": "30",
+          "altura": "",
+          "pePreferido": "1,81m",
+          "valorDeMercado": 4000000
+        },
+        {
+          "nome": "André",
+          "posicao": "Lateral Dir.",
+          "idade": "19",
+          "altura": "1,78m",
+          "pePreferido": "direito",
+          "valorDeMercado": 800000
+        },
+        {
+          "nome": "Cicinho",
+          "posicao": "Lateral Dir.",
+          "idade": "34",
+          "altura": "",
+          "pePreferido": "1,68m",
+          "valorDeMercado": 300000
+        },
+        {
+          "nome": "Nicolás Acevedo",
+          "posicao": "Volante",
+          "idade": "24",
+          "altura": "1,73m",
+          "pePreferido": "direito",
+          "valorDeMercado": 5000000
+        },
+        {
+          "nome": "Rezende",
+          "posicao": "Volante",
+          "idade": "28",
+          "altura": "",
+          "pePreferido": "1,86m",
+          "valorDeMercado": 750000
+        },
+        {
+          "nome": "Diego Rosa",
+          "posicao": "Meia Central",
+          "idade": "20",
+          "altura": "1,82m",
+          "pePreferido": "direito",
+          "valorDeMercado": 2000000
+        },
+        {
+          "nome": "Yago Felipe",
+          "posicao": "Meia Central",
+          "idade": "28",
+          "altura": "",
+          "pePreferido": "1,74m",
+          "valorDeMercado": 2000000
+        },
+        {
+          "nome": "Léo Cittadini",
+          "posicao": "Meia Central",
+          "idade": "29",
+          "altura": "1,79m",
+          "pePreferido": "esquerdo",
+          "valorDeMercado": 1800000
+        },
+        {
+          "nome": "Thaciano",
+          "posicao": "Meia Central",
+          "idade": "28",
+          "altura": "",
+          "pePreferido": "1,82m",
+          "valorDeMercado": 800000
+        },
+        {
+          "nome": "Cauly",
+          "posicao": "Meia Ofensivo",
+          "idade": "27",
+          "altura": "1,75m",
+          "pePreferido": "ambos",
+          "valorDeMercado": 2500000
+        },
+        {
+          "nome": "Patrick Verhon",
+          "posicao": "Meia Ofensivo",
+          "idade": "18",
+          "altura": "",
+          "pePreferido": "1,74m",
+          "valorDeMercado": 400000
+        },
+        {
+          "nome": "Lucas Mugni",
+          "posicao": "Meia Ofensivo",
+          "idade": "31",
+          "altura": "1,84m",
+          "pePreferido": "esquerdo",
+          "valorDeMercado": 300000
+        },
+        {
+          "nome": "Biel",
+          "posicao": "Ponta Esquerda",
+          "idade": "22",
+          "altura": "",
+          "pePreferido": "1,70m",
+          "valorDeMercado": 2500000
+        },
+        {
+          "nome": "Rafael Ratão",
+          "posicao": "Ponta Esquerda",
+          "idade": "27",
+          "altura": "1,83m",
+          "pePreferido": "direito",
+          "valorDeMercado": 2500000
+        },
+        {
+          "nome": "Vitor Jacaré",
+          "posicao": "Ponta Esquerda",
+          "idade": "23",
+          "altura": "",
+          "pePreferido": "1,68m",
+          "valorDeMercado": 1400000
+        },
+        {
+          "nome": "Kayky",
+          "posicao": "Ponta Direita",
+          "idade": "20",
+          "altura": "1,72m",
+          "pePreferido": "esquerdo",
+          "valorDeMercado": 8000000
+        },
+        {
+          "nome": "Ademir",
+          "posicao": "Ponta Direita",
+          "idade": "28",
+          "altura": "",
+          "pePreferido": "1,72m",
+          "valorDeMercado": 3500000
+        },
+        {
+          "nome": "Everaldo",
+          "posicao": "Centroavante",
+          "idade": "32",
+          "altura": "1,82m",
+          "pePreferido": "direito",
+          "valorDeMercado": 800000
+        },
+        {
+          "nome": "Vinicius Mingotti",
+          "posicao": "Centroavante",
+          "idade": "23",
+          "altura": "",
+          "pePreferido": "1,90m",
+          "valorDeMercado": 700000
+        }
+      ]
+    },
+    "Botafogo": {
+      "plantel": [
+        {
+          "nome": "Lucas Perri",
+          "posicao": "Goleiro",
+          "idade": "25",
+          "altura": "",
+          "pePreferido": "1,97m",
+          "valorDeMercado": 5000000
+        },
+        {
+          "nome": "Gatito Fernández",
+          "posicao": "Goleiro",
+          "idade": "35",
+          "altura": "1,91m",
+          "pePreferido": "direito",
+          "valorDeMercado": 400000
+        },
+        {
+          "nome": "Igo Gabriel",
+          "posicao": "Goleiro",
+          "idade": "21",
+          "altura": "",
+          "pePreferido": "1,90m",
+          "valorDeMercado": 100000
+        },
+        {
+          "nome": "João Fernando",
+          "posicao": "Goleiro",
+          "idade": "22",
+          "altura": "1,88m",
+          "pePreferido": "direito",
+          "valorDeMercado": 100000
+        },
+        {
+          "nome": "Adryelson",
+          "posicao": "Zagueiro",
+          "idade": "25",
+          "altura": "",
+          "pePreferido": "1,84m",
+          "valorDeMercado": 5000000
+        },
+        {
+          "nome": "Victor Cuesta",
+          "posicao": "Zagueiro",
+          "idade": "34",
+          "altura": "1,87m",
+          "pePreferido": "esquerdo",
+          "valorDeMercado": 1000000
+        },
+        {
+          "nome": "Philipe Sampaio",
+          "posicao": "Zagueiro",
+          "idade": "28",
+          "altura": "",
+          "pePreferido": "1,91m",
+          "valorDeMercado": 600000
+        },
+        {
+          "nome": "David Sousa",
+          "posicao": "Zagueiro",
+          "idade": "22",
+          "altura": "1,92m",
+          "pePreferido": "esquerdo",
+          "valorDeMercado": 400000
+        },
+        {
+          "nome": "Jefferson Maciel",
+          "posicao": "Zagueiro",
+          "idade": "20",
+          "altura": "",
+          "pePreferido": "1,93m",
+          "valorDeMercado": 100000
+        },
+        {
+          "nome": "Hugo",
+          "posicao": "Lateral Esq.",
+          "idade": "21",
+          "altura": "1,75m",
+          "pePreferido": "esquerdo",
+          "valorDeMercado": 2000000
+        },
+        {
+          "nome": "Marçal",
+          "posicao": "Lateral Esq.",
+          "idade": "34",
+          "altura": "",
+          "pePreferido": "1,78m",
+          "valorDeMercado": 1000000
+        },
+        {
+          "nome": "Mateo Ponte",
+          "posicao": "Lateral Dir.",
+          "idade": "20",
+          "altura": "1,83m",
+          "pePreferido": "direito",
+          "valorDeMercado": 1000000
+        },
+        {
+          "nome": "Rafael",
+          "posicao": "Lateral Dir.",
+          "idade": "33",
+          "altura": "",
+          "pePreferido": "1,72m",
+          "valorDeMercado": 800000
+        },
+        {
+          "nome": "Leonel Di Placido",
+          "posicao": "Lateral Dir.",
+          "idade": "29",
+          "altura": "1,76m",
+          "pePreferido": "direito",
+          "valorDeMercado": 700000
+        },
+        {
+          "nome": "Marlon Freitas",
+          "posicao": "Volante",
+          "idade": "28",
+          "altura": "",
+          "pePreferido": "1,85m",
+          "valorDeMercado": 3000000
+        },
+        {
+          "nome": "Danilo Barbosa",
+          "posicao": "Volante",
+          "idade": "27",
+          "altura": "1,83m",
+          "pePreferido": "direito",
+          "valorDeMercado": 2000000
+        },
+        {
+          "nome": "Kayque",
+          "posicao": "Volante",
+          "idade": "23",
+          "altura": "",
+          "pePreferido": "1,76m",
+          "valorDeMercado": 1500000
+        },
+        {
+          "nome": "JP Galvão",
+          "posicao": "Volante",
+          "idade": "22",
+          "altura": "1,84m",
+          "pePreferido": "direito",
+          "valorDeMercado": 100000
+        },
+        {
+          "nome": "Patrick de Paula",
+          "posicao": "Meia Central",
+          "idade": "23",
+          "altura": "",
+          "pePreferido": "1,78m",
+          "valorDeMercado": 4000000
+        },
+        {
+          "nome": "Gabriel Pires",
+          "posicao": "Meia Central",
+          "idade": "29",
+          "altura": "1,87m",
+          "pePreferido": "esquerdo",
+          "valorDeMercado": 3500000
+        },
+        {
+          "nome": "Tchê Tchê",
+          "posicao": "Meia Central",
+          "idade": "30",
+          "altura": "",
+          "pePreferido": "1,75m",
+          "valorDeMercado": 1800000
+        },
+        {
+          "nome": "Raí",
+          "posicao": "Meia Central",
+          "idade": "21",
+          "altura": "1,75m",
+          "pePreferido": "esquerdo",
+          "valorDeMercado": 100000
+        },
+        {
+          "nome": "Lucas Fernandes",
+          "posicao": "Meia Ofensivo",
+          "idade": "25",
+          "altura": "",
+          "pePreferido": "1,75m",
+          "valorDeMercado": 2000000
+        },
+        {
+          "nome": "Eduardo",
+          "posicao": "Meia Ofensivo",
+          "idade": "33",
+          "altura": "1,84m",
+          "pePreferido": "direito",
+          "valorDeMercado": 1500000
+        },
+        {
+          "nome": "Jacob Montes",
+          "posicao": "Meia Ofensivo",
+          "idade": "24",
+          "altura": "",
+          "pePreferido": "1,80m",
+          "valorDeMercado": 150000
+        },
+        {
+          "nome": "Luis Henrique",
+          "posicao": "Ponta Esquerda",
+          "idade": "21",
+          "altura": "1,81m",
+          "pePreferido": "direito",
+          "valorDeMercado": 6000000
+        },
+        {
+          "nome": "Diego Hernández",
+          "posicao": "Ponta Esquerda",
+          "idade": "23",
+          "altura": "",
+          "pePreferido": "1,75m",
+          "valorDeMercado": 2000000
+        },
+        {
+          "nome": "Victor Sá",
+          "posicao": "Ponta Esquerda",
+          "idade": "29",
+          "altura": "1,78m",
+          "pePreferido": "ambos",
+          "valorDeMercado": 1800000
+        },
+        {
+          "nome": "Matías Segovia",
+          "posicao": "Ponta Direita",
+          "idade": "20",
+          "altura": "",
+          "pePreferido": "1,65m",
+          "valorDeMercado": 3500000
+        },
+        {
+          "nome": "Carlos Alberto",
+          "posicao": "Ponta Direita",
+          "idade": "21",
+          "altura": "1,81m",
+          "pePreferido": "direito",
+          "valorDeMercado": 1300000
+        },
+        {
+          "nome": "Júnior Santos",
+          "posicao": "Ponta Direita",
+          "idade": "28",
+          "altura": "",
+          "pePreferido": "1,88m",
+          "valorDeMercado": 1000000
+        },
+        {
+          "nome": "Matheus Nascimento",
+          "posicao": "Centroavante",
+          "idade": "19",
+          "altura": "1,82m",
+          "pePreferido": "direito",
+          "valorDeMercado": 9000000
+        },
+        {
+          "nome": "Tiquinho Soares",
+          "posicao": "Centroavante",
+          "idade": "32",
+          "altura": "",
+          "pePreferido": "1,87m",
+          "valorDeMercado": 4000000
+        },
+        {
+          "nome": "Diego Costa",
+          "posicao": "Centroavante",
+          "idade": "34",
+          "altura": "1,86m",
+          "pePreferido": "direito",
+          "valorDeMercado": 2000000
+        },
+        {
+          "nome": "Valentín Adamo",
+          "posicao": "Centroavante",
+          "idade": "21",
+          "altura": "",
+          "pePreferido": "1,93m",
+          "valorDeMercado": 500000
+        },
+        {
+          "nome": "Janderson",
+          "posicao": "Centroavante",
+          "idade": "24",
+          "altura": "1,89m",
+          "pePreferido": "ambos",
+          "valorDeMercado": 100000
+        }
+      ]
+    },
+    "Corinthians": {
+      "plantel": [
+        {
+          "nome": "Matheus Donelli",
+          "posicao": "Goleiro",
+          "idade": "21",
+          "altura": "",
+          "pePreferido": "1,87m",
+          "valorDeMercado": 2000000
+        },
+        {
+          "nome": "Carlos Miguel",
+          "posicao": "Goleiro",
+          "idade": "24",
+          "altura": "2,04m",
+          "pePreferido": "esquerdo",
+          "valorDeMercado": 1000000
+        },
+        {
+          "nome": "Cássio",
+          "posicao": "Goleiro",
+          "idade": "36",
+          "altura": "",
+          "pePreferido": "1,95m",
+          "valorDeMercado": 700000
+        },
+        {
+          "nome": "Lucas Veríssimo",
+          "posicao": "Zagueiro",
+          "idade": "28",
+          "altura": "1,88m",
+          "pePreferido": "direito",
+          "valorDeMercado": 6000000
+        },
+        {
+          "nome": "Bruno Méndez",
+          "posicao": "Zagueiro",
+          "idade": "23",
+          "altura": "",
+          "pePreferido": "1,80m",
+          "valorDeMercado": 5000000
+        },
+        {
+          "nome": "Murillo",
+          "posicao": "Zagueiro",
+          "idade": "21",
+          "altura": "1,84m",
+          "pePreferido": "esquerdo",
+          "valorDeMercado": 3500000
+        },
+        {
+          "nome": "Caetano",
+          "posicao": "Zagueiro",
+          "idade": "24",
+          "altura": "",
+          "pePreferido": "1,82m",
+          "valorDeMercado": 1500000
+        },
+        {
+          "nome": "Gil",
+          "posicao": "Zagueiro",
+          "idade": "36",
+          "altura": "1,92m",
+          "pePreferido": "direito",
+          "valorDeMercado": 500000
+        },
+        {
+          "nome": "Renato Santos",
+          "posicao": "Zagueiro",
+          "idade": "18",
+          "altura": "",
+          "pePreferido": "1,88m",
+          "valorDeMercado": 400000
+        },
+        {
+          "nome": "Matheus Bidu",
+          "posicao": "Lateral Esq.",
+          "idade": "24",
+          "altura": "1,72m",
+          "pePreferido": "esquerdo",
+          "valorDeMercado": 2000000
+        },
+        {
+          "nome": "Fábio Santos",
+          "posicao": "Lateral Esq.",
+          "idade": "37",
+          "altura": "",
+          "pePreferido": "1,79m",
+          "valorDeMercado": 200000
+        },
+        {
+          "nome": "Fagner",
+          "posicao": "Lateral Dir.",
+          "idade": "34",
+          "altura": "1,68m",
+          "pePreferido": "direito",
+          "valorDeMercado": 900000
+        },
+        {
+          "nome": "Rafael Ramos",
+          "posicao": "Lateral Dir.",
+          "idade": "28",
+          "altura": "",
+          "pePreferido": "1,70m",
+          "valorDeMercado": 700000
+        },
+        {
+          "nome": "Fausto Vera",
+          "posicao": "Volante",
+          "idade": "23",
+          "altura": "1,80m",
+          "pePreferido": "direito",
+          "valorDeMercado": 7000000
+        },
+        {
+          "nome": "Roni",
+          "posicao": "Volante",
+          "idade": "24",
+          "altura": "",
+          "pePreferido": "1,74m",
+          "valorDeMercado": 4000000
+        },
+        {
+          "nome": "Gabriel Moscardo",
+          "posicao": "Volante",
+          "idade": "17",
+          "altura": "1,85m",
+          "pePreferido": "direito",
+          "valorDeMercado": 1500000
+        },
+        {
+          "nome": "Víctor Cantillo",
+          "posicao": "Volante",
+          "idade": "29",
+          "altura": "",
+          "pePreferido": "1,80m",
+          "valorDeMercado": 1000000
+        },
+        {
+          "nome": "Maycon",
+          "posicao": "Meia Central",
+          "idade": "26",
+          "altura": "1,73m",
+          "pePreferido": "esquerdo",
+          "valorDeMercado": 5000000
+        },
+        {
+          "nome": "Matheus Araújo",
+          "posicao": "Meia Central",
+          "idade": "21",
+          "altura": "",
+          "pePreferido": "1,76m",
+          "valorDeMercado": 2000000
+        },
+        {
+          "nome": "Renato Augusto",
+          "posicao": "Meia Central",
+          "idade": "35",
+          "altura": "1,86m",
+          "pePreferido": "direito",
+          "valorDeMercado": 1500000
+        },
+        {
+          "nome": "Giuliano",
+          "posicao": "Meia Central",
+          "idade": "33",
+          "altura": "",
+          "pePreferido": "1,72m",
+          "valorDeMercado": 1200000
+        },
+        {
+          "nome": "Paulinho",
+          "posicao": "Meia Central",
+          "idade": "35",
+          "altura": "1,83m",
+          "pePreferido": "direito",
+          "valorDeMercado": 800000
+        },
+        {
+          "nome": "Ruan Oliveira",
+          "posicao": "Meia Central",
+          "idade": "23",
+          "altura": "",
+          "pePreferido": "1,78m",
+          "valorDeMercado": 500000
+        },
+        {
+          "nome": "Matías Rojas",
+          "posicao": "Meia Ofensivo",
+          "idade": "27",
+          "altura": "1,80m",
+          "pePreferido": "esquerdo",
+          "valorDeMercado": 6000000
+        },
+        {
+          "nome": "Pedro",
+          "posicao": "Ponta Esquerda",
+          "idade": "17",
+          "altura": "",
+          "pePreferido": "1,70m",
+          "valorDeMercado": 7000000
+        },
+        {
+          "nome": "Wesley",
+          "posicao": "Ponta Esquerda",
+          "idade": "18",
+          "altura": "1,80m",
+          "pePreferido": "direito",
+          "valorDeMercado": 2000000
+        },
+        {
+          "nome": "Ángel Romero",
+          "posicao": "Ponta Esquerda",
+          "idade": "31",
+          "altura": "",
+          "pePreferido": "1,76m",
+          "valorDeMercado": 1500000
+        },
+        {
+          "nome": "Léo Natel",
+          "posicao": "Ponta Esquerda",
+          "idade": "26",
+          "altura": "1,79m",
+          "pePreferido": "direito",
+          "valorDeMercado": 300000
+        },
+        {
+          "nome": "Biro",
+          "posicao": "Ponta Direita",
+          "idade": "19",
+          "altura": "",
+          "pePreferido": "1,71m",
+          "valorDeMercado": 4000000
+        },
+        {
+          "nome": "Gustavo Mosquito",
+          "posicao": "Ponta Direita",
+          "idade": "25",
+          "altura": "1,69m",
+          "pePreferido": "direito",
+          "valorDeMercado": 3000000
+        },
+        {
+          "nome": "Yuri Alberto",
+          "posicao": "Centroavante",
+          "idade": "22",
+          "altura": "",
+          "pePreferido": "1,83m",
+          "valorDeMercado": 16000000
+        },
+        {
+          "nome": "Giovane",
+          "posicao": "Centroavante",
+          "idade": "19",
+          "altura": "1,84m",
+          "pePreferido": "esquerdo",
+          "valorDeMercado": 2500000
+        },
+        {
+          "nome": "Felipe Augusto",
+          "posicao": "Centroavante",
+          "idade": "19",
+          "altura": "",
+          "pePreferido": "1,87m",
+          "valorDeMercado": 750000
+        }
+      ]
+    },
+    "Coritiba": {
+      "plantel": [
+        {
+          "nome": "Gabriel",
+          "posicao": "Goleiro",
+          "idade": "30",
+          "altura": "",
+          "pePreferido": "1,94m",
+          "valorDeMercado": 1500000
+        },
+        {
+          "nome": "Luan Polli",
+          "posicao": "Goleiro",
+          "idade": "30",
+          "altura": "1,88m",
+          "pePreferido": "direito",
+          "valorDeMercado": 400000
+        },
+        {
+          "nome": "Marcão",
+          "posicao": "Goleiro",
+          "idade": "23",
+          "altura": "",
+          "pePreferido": "1,91m",
+          "valorDeMercado": 100000
+        },
+        {
+          "nome": "Pedro Morisco",
+          "posicao": "Goleiro",
+          "idade": "19",
+          "altura": "1,91m",
+          "pePreferido": "direito",
+          "valorDeMercado": null
+        },
+        {
+          "nome": "Benjamín Kuscevic",
+          "posicao": "Zagueiro",
+          "idade": "27",
+          "altura": "",
+          "pePreferido": "1,86m",
+          "valorDeMercado": 1200000
+        },
+        {
+          "nome": "Reynaldo",
+          "posicao": "Zagueiro",
+          "idade": "26",
+          "altura": "1,86m",
+          "pePreferido": "esquerdo",
+          "valorDeMercado": 1000000
+        },
+        {
+          "nome": "Jean Pedroso",
+          "posicao": "Zagueiro",
+          "idade": "19",
+          "altura": "",
+          "pePreferido": "1,91m",
+          "valorDeMercado": 1000000
+        },
+        {
+          "nome": "Maurício Antônio",
+          "posicao": "Zagueiro",
+          "idade": "31",
+          "altura": "1,83m",
+          "pePreferido": "direito",
+          "valorDeMercado": 400000
+        },
+        {
+          "nome": "Thalisson",
+          "posicao": "Zagueiro",
+          "idade": "21",
+          "altura": "",
+          "pePreferido": "1,90m",
+          "valorDeMercado": 300000
+        },
+        {
+          "nome": "Henrique",
+          "posicao": "Zagueiro",
+          "idade": "36",
+          "altura": "1,85m",
+          "pePreferido": "direito",
+          "valorDeMercado": 150000
+        },
+        {
+          "nome": "Thiago Dombroski",
+          "posicao": "Zagueiro",
+          "idade": "21",
+          "altura": "",
+          "pePreferido": "1,90m",
+          "valorDeMercado": 150000
+        },
+        {
+          "nome": "Jamerson",
+          "posicao": "Lateral Esq.",
+          "idade": "24",
+          "altura": "1,77m",
+          "pePreferido": "esquerdo",
+          "valorDeMercado": 1000000
+        },
+        {
+          "nome": "Victor Luis",
+          "posicao": "Lateral Esq.",
+          "idade": "30",
+          "altura": "",
+          "pePreferido": "1,77m",
+          "valorDeMercado": 900000
+        },
+        {
+          "nome": "Natanael",
+          "posicao": "Lateral Dir.",
+          "idade": "21",
+          "altura": "1,72m",
+          "pePreferido": "direito",
+          "valorDeMercado": 2500000
+        },
+        {
+          "nome": "Hayner",
+          "posicao": "Lateral Dir.",
+          "idade": "27",
+          "altura": "",
+          "pePreferido": "1,78m",
+          "valorDeMercado": 600000
+        },
+        {
+          "nome": "Diogo Batista",
+          "posicao": "Lateral Dir.",
+          "idade": "20",
+          "altura": "1,73m",
+          "pePreferido": "direito",
+          "valorDeMercado": 300000
+        },
+        {
+          "nome": "Andrey",
+          "posicao": "Volante",
+          "idade": "25",
+          "altura": "",
+          "pePreferido": "1,75m",
+          "valorDeMercado": 2500000
+        },
+        {
+          "nome": "Bruno Gomes",
+          "posicao": "Volante",
+          "idade": "22",
+          "altura": "1,75m",
+          "pePreferido": "direito",
+          "valorDeMercado": 2000000
+        },
+        {
+          "nome": "Andreas Samaris",
+          "posicao": "Volante",
+          "idade": "34",
+          "altura": "",
+          "pePreferido": "1,89m",
+          "valorDeMercado": 200000
+        },
+        {
+          "nome": "Willian Farias",
+          "posicao": "Volante",
+          "idade": "34",
+          "altura": "1,78m",
+          "pePreferido": "direito",
+          "valorDeMercado": 200000
+        },
+        {
+          "nome": "Liziero",
+          "posicao": "Meia Central",
+          "idade": "25",
+          "altura": "",
+          "pePreferido": "1,77m",
+          "valorDeMercado": 2500000
+        },
+        {
+          "nome": "Sebastián Gómez",
+          "posicao": "Meia Central",
+          "idade": "27",
+          "altura": "1,72m",
+          "pePreferido": "esquerdo",
+          "valorDeMercado": 2000000
+        },
+        {
+          "nome": "Fransérgio",
+          "posicao": "Meia Central",
+          "idade": "32",
+          "altura": "",
+          "pePreferido": "1,86m",
+          "valorDeMercado": 1200000
+        },
+        {
+          "nome": "Matheus Bianqui",
+          "posicao": "Meia Central",
+          "idade": "25",
+          "altura": "1,87m",
+          "pePreferido": "direito",
+          "valorDeMercado": 700000
+        },
+        {
+          "nome": "Marcelino Moreno",
+          "posicao": "Meia Ofensivo",
+          "idade": "28",
+          "altura": "",
+          "pePreferido": "1,75m",
+          "valorDeMercado": 5000000
+        },
+        {
+          "nome": "Boschilia",
+          "posicao": "Meia Ofensivo",
+          "idade": "27",
+          "altura": "1,73m",
+          "pePreferido": "esquerdo",
+          "valorDeMercado": 1700000
+        },
+        {
+          "nome": "Gabriel Silva",
+          "posicao": "Meia Ofensivo",
+          "idade": "21",
+          "altura": "",
+          "pePreferido": "1,78m",
+          "valorDeMercado": 1000000
+        },
+        {
+          "nome": "Lucas Barbosa",
+          "posicao": "Ponta Esquerda",
+          "idade": "22",
+          "altura": "1,93m",
+          "pePreferido": "esquerdo",
+          "valorDeMercado": 1000000
+        },
+        {
+          "nome": "Maurício Garcez",
+          "posicao": "Ponta Esquerda",
+          "idade": "26",
+          "altura": "",
+          "pePreferido": "1,83m",
+          "valorDeMercado": 1000000
+        },
+        {
+          "nome": "Kaio César",
+          "posicao": "Ponta Direita",
+          "idade": "19",
+          "altura": "1,68m",
+          "pePreferido": "direito",
+          "valorDeMercado": 1000000
+        },
+        {
+          "nome": "Ruan Assis",
+          "posicao": "Ponta Direita",
+          "idade": "19",
+          "altura": "",
+          "pePreferido": "1,83m",
+          "valorDeMercado": 400000
+        },
+        {
+          "nome": "Lucas Ronier",
+          "posicao": "Ponta Direita",
+          "idade": "18",
+          "altura": "1,63m",
+          "pePreferido": "esquerdo",
+          "valorDeMercado": null
+        },
+        {
+          "nome": "Islam Slimani",
+          "posicao": "Centroavante",
+          "idade": "35",
+          "altura": "",
+          "pePreferido": "1,88m",
+          "valorDeMercado": 1500000
+        },
+        {
+          "nome": "Rodrigo Pinho",
+          "posicao": "Centroavante",
+          "idade": "32",
+          "altura": "1,85m",
+          "pePreferido": "esquerdo",
+          "valorDeMercado": 1300000
+        },
+        {
+          "nome": "Diogo",
+          "posicao": "Centroavante",
+          "idade": "26",
+          "altura": "",
+          "pePreferido": "1,93m",
+          "valorDeMercado": 1000000
+        },
+        {
+          "nome": "Edu",
+          "posicao": "Centroavante",
+          "idade": "30",
+          "altura": "1,80m",
+          "pePreferido": "direito",
+          "valorDeMercado": 1000000
+        },
+        {
+          "nome": "Robson",
+          "posicao": "Centroavante",
+          "idade": "32",
+          "altura": "",
+          "pePreferido": "1,75m",
+          "valorDeMercado": 800000
+        }
+      ]
+    },
+    "Cruzeiro": {
+      "plantel": [
+        {
+          "nome": "Rafael Cabral",
+          "posicao": "Goleiro",
+          "idade": "33",
+          "altura": "",
+          "pePreferido": "1,86m",
+          "valorDeMercado": 550000
+        },
+        {
+          "nome": "Gabriel Mesquita",
+          "posicao": "Goleiro",
+          "idade": "24",
+          "altura": "1,97m",
+          "pePreferido": "direito",
+          "valorDeMercado": 400000
+        },
+        {
+          "nome": "Anderson Paixão",
+          "posicao": "Goleiro",
+          "idade": "25",
+          "altura": "",
+          "pePreferido": "1,90m",
+          "valorDeMercado": 200000
+        },
+        {
+          "nome": "Lucas Oliveira",
+          "posicao": "Zagueiro",
+          "idade": "27",
+          "altura": "1,87m",
+          "pePreferido": "direito",
+          "valorDeMercado": 2500000
+        },
+        {
+          "nome": "Neris",
+          "posicao": "Zagueiro",
+          "idade": "31",
+          "altura": "",
+          "pePreferido": "1,92m",
+          "valorDeMercado": 700000
+        },
+        {
+          "nome": "João Marcelo",
+          "posicao": "Zagueiro",
+          "idade": "23",
+          "altura": "1,89m",
+          "pePreferido": "direito",
+          "valorDeMercado": 700000
+        },
+        {
+          "nome": "Luciano Castán",
+          "posicao": "Zagueiro",
+          "idade": "33",
+          "altura": "",
+          "pePreferido": "1,87m",
+          "valorDeMercado": 300000
+        },
+        {
+          "nome": "Marlon",
+          "posicao": "Lateral Esq.",
+          "idade": "26",
+          "altura": "1,78m",
+          "pePreferido": "esquerdo",
+          "valorDeMercado": 4000000
+        },
+        {
+          "nome": "Kaiki",
+          "posicao": "Lateral Esq.",
+          "idade": "20",
+          "altura": "",
+          "pePreferido": "1,72m",
+          "valorDeMercado": 1500000
+        },
+        {
+          "nome": "William",
+          "posicao": "Lateral Dir.",
+          "idade": "28",
+          "altura": "1,76m",
+          "pePreferido": "direito",
+          "valorDeMercado": 2000000
+        },
+        {
+          "nome": "Wesley Gasolina",
+          "posicao": "Lateral Dir.",
+          "idade": "23",
+          "altura": "",
+          "pePreferido": "1,70m",
+          "valorDeMercado": 1500000
+        },
+        {
+          "nome": "Helibelton Palacios",
+          "posicao": "Lateral Dir.",
+          "idade": "30",
+          "altura": "1,81m",
+          "pePreferido": "direito",
+          "valorDeMercado": 1200000
+        },
+        {
+          "nome": "Matheus Jussa",
+          "posicao": "Volante",
+          "idade": "27",
+          "altura": "",
+          "pePreferido": "1,83m",
+          "valorDeMercado": 1200000
+        },
+        {
+          "nome": "Filipe Machado",
+          "posicao": "Volante",
+          "idade": "27",
+          "altura": "1,74m",
+          "pePreferido": "direito",
+          "valorDeMercado": 1000000
+        },
+        {
+          "nome": "Wallisson",
+          "posicao": "Volante",
+          "idade": "25",
+          "altura": "",
+          "pePreferido": "1,84m",
+          "valorDeMercado": 800000
+        },
+        {
+          "nome": "Lucas Silva",
+          "posicao": "Volante",
+          "idade": "30",
+          "altura": "1,81m",
+          "pePreferido": "direito",
+          "valorDeMercado": 800000
+        },
+        {
+          "nome": "Ramiro",
+          "posicao": "Meia Central",
+          "idade": "30",
+          "altura": "",
+          "pePreferido": "1,69m",
+          "valorDeMercado": 1500000
+        },
+        {
+          "nome": "Fernando Henrique",
+          "posicao": "Meia Central",
+          "idade": "22",
+          "altura": "1,82m",
+          "pePreferido": "ambos",
+          "valorDeMercado": 1200000
+        },
+        {
+          "nome": "Ian Luccas",
+          "posicao": "Meia Central",
+          "idade": "20",
+          "altura": "",
+          "pePreferido": "1,88m",
+          "valorDeMercado": 500000
+        },
+        {
+          "nome": "Matheus Pereira",
+          "posicao": "Meia Ofensivo",
+          "idade": "27",
+          "altura": "1,75m",
+          "pePreferido": "esquerdo",
+          "valorDeMercado": 7000000
+        },
+        {
+          "nome": "Mateus Vital",
+          "posicao": "Meia Ofensivo",
+          "idade": "25",
+          "altura": "",
+          "pePreferido": "1,75m",
+          "valorDeMercado": 3000000
+        },
+        {
+          "nome": "Nikão",
+          "posicao": "Meia Ofensivo",
+          "idade": "31",
+          "altura": "1,74m",
+          "pePreferido": "esquerdo",
+          "valorDeMercado": 2000000
+        },
+        {
+          "nome": "Daniel Júnior",
+          "posicao": "Meia Ofensivo",
+          "idade": "21",
+          "altura": "",
+          "pePreferido": "1,77m",
+          "valorDeMercado": 1400000
+        },
+        {
+          "nome": "Wesley",
+          "posicao": "Ponta Esquerda",
+          "idade": "24",
+          "altura": "1,75m",
+          "pePreferido": "direito",
+          "valorDeMercado": 5500000
+        },
+        {
+          "nome": "Arthur Gomes",
+          "posicao": "Ponta Esquerda",
+          "idade": "25",
+          "altura": "",
+          "pePreferido": "1,74m",
+          "valorDeMercado": 3000000
+        },
+        {
+          "nome": "Bruno Rodrigues",
+          "posicao": "Ponta Esquerda",
+          "idade": "26",
+          "altura": "1,77m",
+          "pePreferido": "direito",
+          "valorDeMercado": 2500000
+        },
+        {
+          "nome": "Paulo Vitor",
+          "posicao": "Ponta Esquerda",
+          "idade": "24",
+          "altura": "",
+          "pePreferido": "1,70m",
+          "valorDeMercado": 400000
+        },
+        {
+          "nome": "Stênio",
+          "posicao": "Ponta Direita",
+          "idade": "20",
+          "altura": "1,80m",
+          "pePreferido": "direito",
+          "valorDeMercado": 1000000
+        },
+        {
+          "nome": "Rafael Bilu",
+          "posicao": "Ponta Direita",
+          "idade": "24",
+          "altura": "",
+          "pePreferido": "1,74m",
+          "valorDeMercado": 250000
+        },
+        {
+          "nome": "Robert",
+          "posicao": "Ponta Direita",
+          "idade": "18",
+          "altura": "-",
+          "pePreferido": "",
+          "valorDeMercado": 250000
+        },
+        {
+          "nome": "Rafael Elias",
+          "posicao": "Centroavante",
+          "idade": "24",
+          "altura": "",
+          "pePreferido": "1,79m",
+          "valorDeMercado": 3000000
+        },
+        {
+          "nome": "Gilberto",
+          "posicao": "Centroavante",
+          "idade": "34",
+          "altura": "1,78m",
+          "pePreferido": "direito",
+          "valorDeMercado": 700000
+        },
+        {
+          "nome": "Breno",
+          "posicao": "Centroavante",
+          "idade": "21",
+          "altura": "",
+          "pePreferido": "1,88m",
+          "valorDeMercado": 150000
+        }
+      ]
+    },
+    "Cuiabá": {
+      "plantel": [
+        {
+          "nome": "Walter",
+          "posicao": "Goleiro",
+          "idade": "35",
+          "altura": "",
+          "pePreferido": "1,88m",
+          "valorDeMercado": 250000
+        },
+        {
+          "nome": "João Carlos",
+          "posicao": "Goleiro",
+          "idade": "35",
+          "altura": "1,91m",
+          "pePreferido": "direito",
+          "valorDeMercado": 100000
+        },
+        {
+          "nome": "Vinicius Barreta",
+          "posicao": "Goleiro",
+          "idade": "24",
+          "altura": "",
+          "pePreferido": "1,90m",
+          "valorDeMercado": 100000
+        },
+        {
+          "nome": "Alan Empereur",
+          "posicao": "Zagueiro",
+          "idade": "29",
+          "altura": "1,86m",
+          "pePreferido": "esquerdo",
+          "valorDeMercado": 750000
+        },
+        {
+          "nome": "Marllon",
+          "posicao": "Zagueiro",
+          "idade": "31",
+          "altura": "",
+          "pePreferido": "1,86m",
+          "valorDeMercado": 500000
+        },
+        {
+          "nome": "Allyson",
+          "posicao": "Zagueiro",
+          "idade": "32",
+          "altura": "1,84m",
+          "pePreferido": "direito",
+          "valorDeMercado": 125000
+        },
+        {
+          "nome": "Vitão",
+          "posicao": "Zagueiro",
+          "idade": "22",
+          "altura": "",
+          "pePreferido": "1,94m",
+          "valorDeMercado": 100000
+        },
+        {
+          "nome": "Rikelme",
+          "posicao": "Lateral Esq.",
+          "idade": "20",
+          "altura": "1,84m",
+          "pePreferido": "esquerdo",
+          "valorDeMercado": 1000000
+        },
+        {
+          "nome": "Uendel",
+          "posicao": "Lateral Esq.",
+          "idade": "34",
+          "altura": "",
+          "pePreferido": "1,79m",
+          "valorDeMercado": 250000
+        },
+        {
+          "nome": "Juan Tavares",
+          "posicao": "Lateral Esq.",
+          "idade": "21",
+          "altura": "1,79m",
+          "pePreferido": "esquerdo",
+          "valorDeMercado": 150000
+        },
+        {
+          "nome": "Patric Calmon",
+          "posicao": "Lateral Esq.",
+          "idade": "29",
+          "altura": "",
+          "pePreferido": "1,81m",
+          "valorDeMercado": 150000
+        },
+        {
+          "nome": "Matheus Alexandre",
+          "posicao": "Lateral Dir.",
+          "idade": "24",
+          "altura": "1,88m",
+          "pePreferido": "direito",
+          "valorDeMercado": 800000
+        },
+        {
+          "nome": "Matheusinho",
+          "posicao": "Lateral Dir.",
+          "idade": "24",
+          "altura": "",
+          "pePreferido": "1,75m",
+          "valorDeMercado": 800000
+        },
+        {
+          "nome": "Lucas Mineiro",
+          "posicao": "Volante",
+          "idade": "27",
+          "altura": "1,88m",
+          "pePreferido": "esquerdo",
+          "valorDeMercado": 1200000
+        },
+        {
+          "nome": "Raniele",
+          "posicao": "Volante",
+          "idade": "26",
+          "altura": "",
+          "pePreferido": "1,84m",
+          "valorDeMercado": 1000000
+        },
+        {
+          "nome": "Ronald",
+          "posicao": "Volante",
+          "idade": "26",
+          "altura": "1,71m",
+          "pePreferido": "direito",
+          "valorDeMercado": 800000
+        },
+        {
+          "nome": "Filipe Augusto",
+          "posicao": "Volante",
+          "idade": "30",
+          "altura": "",
+          "pePreferido": "1,83m",
+          "valorDeMercado": 700000
+        },
+        {
+          "nome": "Fernando Sobral",
+          "posicao": "Meia Central",
+          "idade": "28",
+          "altura": "1,78m",
+          "pePreferido": "direito",
+          "valorDeMercado": 2000000
+        },
+        {
+          "nome": "Ricardo Cerqueira",
+          "posicao": "Meia Central",
+          "idade": "20",
+          "altura": "",
+          "pePreferido": "1,84m",
+          "valorDeMercado": 300000
+        },
+        {
+          "nome": "Pablo Ceppelini",
+          "posicao": "Meia Ofensivo",
+          "idade": "31",
+          "altura": "1,79m",
+          "pePreferido": "direito",
+          "valorDeMercado": 700000
+        },
+        {
+          "nome": "Denilson",
+          "posicao": "Meia Ofensivo",
+          "idade": "22",
+          "altura": "",
+          "pePreferido": "1,80m",
+          "valorDeMercado": 600000
+        },
+        {
+          "nome": "Nicolás Quagliata",
+          "posicao": "Ponta Esquerda",
+          "idade": "24",
+          "altura": "1,71m",
+          "pePreferido": "direito",
+          "valorDeMercado": 1500000
+        },
+        {
+          "nome": "Clayson",
+          "posicao": "Ponta Esquerda",
+          "idade": "28",
+          "altura": "",
+          "pePreferido": "1,66m",
+          "valorDeMercado": 750000
+        },
+        {
+          "nome": "Gabryel Freitas",
+          "posicao": "Ponta Esquerda",
+          "idade": "20",
+          "altura": "1,68m",
+          "pePreferido": "direito",
+          "valorDeMercado": 300000
+        },
+        {
+          "nome": "Jonathan Cafu",
+          "posicao": "Ponta Direita",
+          "idade": "32",
+          "altura": "",
+          "pePreferido": "1,75m",
+          "valorDeMercado": 450000
+        },
+        {
+          "nome": "Wellington Silva",
+          "posicao": "Ponta Direita",
+          "idade": "30",
+          "altura": "1,70m",
+          "pePreferido": "direito",
+          "valorDeMercado": 450000
+        },
+        {
+          "nome": "Emerson Negueba",
+          "posicao": "Ponta Direita",
+          "idade": "22",
+          "altura": "",
+          "pePreferido": "1,75m",
+          "valorDeMercado": 400000
+        },
+        {
+          "nome": "Isidro Pitta",
+          "posicao": "Centroavante",
+          "idade": "24",
+          "altura": "1,83m",
+          "pePreferido": "direito",
+          "valorDeMercado": 2500000
+        },
+        {
+          "nome": "Deyverson",
+          "posicao": "Centroavante",
+          "idade": "32",
+          "altura": "",
+          "pePreferido": "1,87m",
+          "valorDeMercado": 1000000
+        },
+        {
+          "nome": "Derik Lacerda",
+          "posicao": "Centroavante",
+          "idade": "23",
+          "altura": "1,91m",
+          "pePreferido": "esquerdo",
+          "valorDeMercado": 500000
+        }
+      ]
+    },
+    "Flamengo": {
+      "plantel": [
+        {
+          "nome": "Agustín Rossi",
+          "posicao": "Goleiro",
+          "idade": "28",
+          "altura": "",
+          "pePreferido": "1,93m",
+          "valorDeMercado": 6000000
+        },
+        {
+          "nome": "Matheus Cunha",
+          "posicao": "Goleiro",
+          "idade": "22",
+          "altura": "1,93m",
+          "pePreferido": "direito",
+          "valorDeMercado": 3000000
+        },
+        {
+          "nome": "Santos",
+          "posicao": "Goleiro",
+          "idade": "33",
+          "altura": "",
+          "pePreferido": "1,88m",
+          "valorDeMercado": 2000000
+        },
+        {
+          "nome": "Léo Pereira",
+          "posicao": "Zagueiro",
+          "idade": "27",
+          "altura": "1,89m",
+          "pePreferido": "esquerdo",
+          "valorDeMercado": 4000000
+        },
+        {
+          "nome": "Fabrício Bruno",
+          "posicao": "Zagueiro",
+          "idade": "27",
+          "altura": "",
+          "pePreferido": "1,90m",
+          "valorDeMercado": 3000000
+        },
+        {
+          "nome": "Pablo",
+          "posicao": "Zagueiro",
+          "idade": "32",
+          "altura": "1,88m",
+          "pePreferido": "direito",
+          "valorDeMercado": 2000000
+        },
+        {
+          "nome": "Gabriel Noga",
+          "posicao": "Zagueiro",
+          "idade": "21",
+          "altura": "",
+          "pePreferido": "1,83m",
+          "valorDeMercado": 2000000
+        },
+        {
+          "nome": "Rodrigo Caio",
+          "posicao": "Zagueiro",
+          "idade": "30",
+          "altura": "1,83m",
+          "pePreferido": "direito",
+          "valorDeMercado": 1500000
+        },
+        {
+          "nome": "David Luiz",
+          "posicao": "Zagueiro",
+          "idade": "36",
+          "altura": "",
+          "pePreferido": "1,89m",
+          "valorDeMercado": 500000
+        },
+        {
+          "nome": "Cleiton",
+          "posicao": "Zagueiro",
+          "idade": "20",
+          "altura": "1,94m",
+          "pePreferido": "esquerdo",
+          "valorDeMercado": 250000
+        },
+        {
+          "nome": "Ayrton Lucas",
+          "posicao": "Lateral Esq.",
+          "idade": "26",
+          "altura": "",
+          "pePreferido": "1,80m",
+          "valorDeMercado": 9000000
+        },
+        {
+          "nome": "Filipe Luís",
+          "posicao": "Lateral Esq.",
+          "idade": "38",
+          "altura": "1,82m",
+          "pePreferido": "esquerdo",
+          "valorDeMercado": 300000
+        },
+        {
+          "nome": "Matheuzinho",
+          "posicao": "Lateral Dir.",
+          "idade": "22",
+          "altura": "",
+          "pePreferido": "1,71m",
+          "valorDeMercado": 6000000
+        },
+        {
+          "nome": "Wesley",
+          "posicao": "Lateral Dir.",
+          "idade": "19",
+          "altura": "1,73m",
+          "pePreferido": "direito",
+          "valorDeMercado": 2500000
+        },
+        {
+          "nome": "Guillermo Varela",
+          "posicao": "Lateral Dir.",
+          "idade": "30",
+          "altura": "",
+          "pePreferido": "1,73m",
+          "valorDeMercado": 2000000
+        },
+        {
+          "nome": "Allan",
+          "posicao": "Volante",
+          "idade": "26",
+          "altura": "1,72m",
+          "pePreferido": "esquerdo",
+          "valorDeMercado": 7000000
+        },
+        {
+          "nome": "Erick Pulgar",
+          "posicao": "Volante",
+          "idade": "29",
+          "altura": "",
+          "pePreferido": "1,87m",
+          "valorDeMercado": 6000000
+        },
+        {
+          "nome": "Thiago Maia",
+          "posicao": "Volante",
+          "idade": "26",
+          "altura": "1,79m",
+          "pePreferido": "esquerdo",
+          "valorDeMercado": 6000000
+        },
+        {
+          "nome": "Igor Jesus",
+          "posicao": "Volante",
+          "idade": "20",
+          "altura": "",
+          "pePreferido": "1,79m",
+          "valorDeMercado": 150000
+        },
+        {
+          "nome": "Gerson",
+          "posicao": "Meia Central",
+          "idade": "26",
+          "altura": "1,84m",
+          "pePreferido": "esquerdo",
+          "valorDeMercado": 15000000
+        },
+        {
+          "nome": "Victor Hugo",
+          "posicao": "Meia Central",
+          "idade": "19",
+          "altura": "",
+          "pePreferido": "1,82m",
+          "valorDeMercado": 3000000
+        },
+        {
+          "nome": "Giorgian de Arrascaeta",
+          "posicao": "Meia Ofensivo",
+          "idade": "29",
+          "altura": "1,74m",
+          "pePreferido": "direito",
+          "valorDeMercado": 17000000
+        },
+        {
+          "nome": "Éverton Ribeiro",
+          "posicao": "Meia Ofensivo",
+          "idade": "34",
+          "altura": "",
+          "pePreferido": "1,74m",
+          "valorDeMercado": 3000000
+        },
+        {
+          "nome": "Everton",
+          "posicao": "Ponta Esquerda",
+          "idade": "27",
+          "altura": "1,74m",
+          "pePreferido": "direito",
+          "valorDeMercado": 9000000
+        },
+        {
+          "nome": "Bruno Henrique",
+          "posicao": "Ponta Esquerda",
+          "idade": "32",
+          "altura": "",
+          "pePreferido": "1,84m",
+          "valorDeMercado": 2500000
+        },
+        {
+          "nome": "Luiz Araújo",
+          "posicao": "Ponta Direita",
+          "idade": "27",
+          "altura": "1,75m",
+          "pePreferido": "esquerdo",
+          "valorDeMercado": 6000000
+        },
+        {
+          "nome": "Pedro",
+          "posicao": "Centroavante",
+          "idade": "26",
+          "altura": "",
+          "pePreferido": "1,85m",
+          "valorDeMercado": 22000000
+        },
+        {
+          "nome": "Gabriel Barbosa",
+          "posicao": "Centroavante",
+          "idade": "26",
+          "altura": "1,78m",
+          "pePreferido": "esquerdo",
+          "valorDeMercado": 20000000
+        },
+        {
+          "nome": "André Luiz",
+          "posicao": "Centroavante",
+          "idade": "21",
+          "altura": "",
+          "pePreferido": "1,85m",
+          "valorDeMercado": 150000
+        }
+      ]
+    },
+    "Fluminense": {
+      "plantel": [
+        {
+          "nome": "Pedro Rangel",
+          "posicao": "Goleiro",
+          "idade": "23",
+          "altura": "",
+          "pePreferido": "1,92m",
+          "valorDeMercado": 550000
+        },
+        {
+          "nome": "Fábio",
+          "posicao": "Goleiro",
+          "idade": "42",
+          "altura": "1,88m",
+          "pePreferido": "direito",
+          "valorDeMercado": 200000
+        },
+        {
+          "nome": "Vitor Eudes",
+          "posicao": "Goleiro",
+          "idade": "24",
+          "altura": "",
+          "pePreferido": "1,94m",
+          "valorDeMercado": 100000
+        },
+        {
+          "nome": "Nino",
+          "posicao": "Zagueiro",
+          "idade": "26",
+          "altura": "1,88m",
+          "pePreferido": "direito",
+          "valorDeMercado": 7000000
+        },
+        {
+          "nome": "Marlon",
+          "posicao": "Zagueiro",
+          "idade": "27",
+          "altura": "",
+          "pePreferido": "1,82m",
+          "valorDeMercado": 6000000
+        },
+        {
+          "nome": "Vitor Mendes",
+          "posicao": "Zagueiro",
+          "idade": "24",
+          "altura": "1,86m",
+          "pePreferido": "direito",
+          "valorDeMercado": 450000
+        },
+        {
+          "nome": "Manoel",
+          "posicao": "Zagueiro",
+          "idade": "33",
+          "altura": "",
+          "pePreferido": "1,81m",
+          "valorDeMercado": 350000
+        },
+        {
+          "nome": "Felipe Melo",
+          "posicao": "Zagueiro",
+          "idade": "40",
+          "altura": "1,83m",
+          "pePreferido": "direito",
+          "valorDeMercado": 150000
+        },
+        {
+          "nome": "David Braz",
+          "posicao": "Zagueiro",
+          "idade": "36",
+          "altura": "",
+          "pePreferido": "1,88m",
+          "valorDeMercado": 150000
+        },
+        {
+          "nome": "Marcelo",
+          "posicao": "Lateral Esq.",
+          "idade": "35",
+          "altura": "1,74m",
+          "pePreferido": "esquerdo",
+          "valorDeMercado": 1800000
+        },
+        {
+          "nome": "Jorge",
+          "posicao": "Lateral Esq.",
+          "idade": "27",
+          "altura": "",
+          "pePreferido": "1,84m",
+          "valorDeMercado": 1100000
+        },
+        {
+          "nome": "Diogo Barbosa",
+          "posicao": "Lateral Esq.",
+          "idade": "31",
+          "altura": "1,79m",
+          "pePreferido": "esquerdo",
+          "valorDeMercado": 1000000
+        },
+        {
+          "nome": "Guga",
+          "posicao": "Lateral Dir.",
+          "idade": "25",
+          "altura": "",
+          "pePreferido": "1,74m",
+          "valorDeMercado": 3500000
+        },
+        {
+          "nome": "Samuel Xavier",
+          "posicao": "Lateral Dir.",
+          "idade": "33",
+          "altura": "1,66m",
+          "pePreferido": "direito",
+          "valorDeMercado": 500000
+        },
+        {
+          "nome": "André",
+          "posicao": "Volante",
+          "idade": "22",
+          "altura": "",
+          "pePreferido": "1,76m",
+          "valorDeMercado": 15000000
+        },
+        {
+          "nome": "Alexsander",
+          "posicao": "Volante",
+          "idade": "19",
+          "altura": "1,77m",
+          "pePreferido": "esquerdo",
+          "valorDeMercado": 4000000
+        },
+        {
+          "nome": "Caio Vinicius",
+          "posicao": "Volante",
+          "idade": "24",
+          "altura": "",
+          "pePreferido": "1,87m",
+          "valorDeMercado": 1500000
+        },
+        {
+          "nome": "Thiago Santos",
+          "posicao": "Volante",
+          "idade": "33",
+          "altura": "1,81m",
+          "pePreferido": "direito",
+          "valorDeMercado": 250000
+        },
+        {
+          "nome": "Martinelli",
+          "posicao": "Meia Central",
+          "idade": "21",
+          "altura": "",
+          "pePreferido": "1,76m",
+          "valorDeMercado": 5000000
+        },
+        {
+          "nome": "Daniel",
+          "posicao": "Meia Central",
+          "idade": "27",
+          "altura": "1,73m",
+          "pePreferido": "direito",
+          "valorDeMercado": 1400000
+        },
+        {
+          "nome": "Jhon Arias",
+          "posicao": "Meia Esquerda",
+          "idade": "25",
+          "altura": "",
+          "pePreferido": "1,68m",
+          "valorDeMercado": 8000000
+        },
+        {
+          "nome": "Leonardo Fernández",
+          "posicao": "Meia Ofensivo",
+          "idade": "24",
+          "altura": "1,66m",
+          "pePreferido": "esquerdo",
+          "valorDeMercado": 7000000
+        },
+        {
+          "nome": "Lima",
+          "posicao": "Meia Ofensivo",
+          "idade": "27",
+          "altura": "",
+          "pePreferido": "1,81m",
+          "valorDeMercado": 1500000
+        },
+        {
+          "nome": "Ganso",
+          "posicao": "Meia Ofensivo",
+          "idade": "33",
+          "altura": "1,84m",
+          "pePreferido": "esquerdo",
+          "valorDeMercado": 700000
+        },
+        {
+          "nome": "Keno",
+          "posicao": "Ponta Esquerda",
+          "idade": "33",
+          "altura": "",
+          "pePreferido": "1,74m",
+          "valorDeMercado": 1100000
+        },
+        {
+          "nome": "Giovanni",
+          "posicao": "Ponta Direita",
+          "idade": "21",
+          "altura": "1,76m",
+          "pePreferido": "direito",
+          "valorDeMercado": 700000
+        },
+        {
+          "nome": "Yony González",
+          "posicao": "Ponta Direita",
+          "idade": "29",
+          "altura": "",
+          "pePreferido": "1,84m",
+          "valorDeMercado": 600000
+        },
+        {
+          "nome": "John Kennedy",
+          "posicao": "Centroavante",
+          "idade": "21",
+          "altura": "1,81m",
+          "pePreferido": "direito",
+          "valorDeMercado": 4000000
+        },
+        {
+          "nome": "Germán Cano",
+          "posicao": "Centroavante",
+          "idade": "35",
+          "altura": "",
+          "pePreferido": "1,76m",
+          "valorDeMercado": 1800000
+        },
+        {
+          "nome": "Lelê",
+          "posicao": "Centroavante",
+          "idade": "25",
+          "altura": "1,89m",
+          "pePreferido": "direito",
+          "valorDeMercado": 1200000
+        },
+        {
+          "nome": "Kauã Elias",
+          "posicao": "Centroavante",
+          "idade": "17",
+          "altura": "",
+          "pePreferido": "1,80m",
+          "valorDeMercado": 700000
+        }
+      ]
+    },
+    "Fortaleza": {
+      "plantel": [
+        {
+          "nome": "João Ricardo",
+          "posicao": "Goleiro",
+          "idade": "34",
+          "altura": "",
+          "pePreferido": "1,86m",
+          "valorDeMercado": 350000
+        },
+        {
+          "nome": "Mauricio Kozlinski",
+          "posicao": "Goleiro",
+          "idade": "32",
+          "altura": "1,91m",
+          "pePreferido": "direito",
+          "valorDeMercado": 350000
+        },
+        {
+          "nome": "Fernando Miguel",
+          "posicao": "Goleiro",
+          "idade": "38",
+          "altura": "",
+          "pePreferido": "1,91m",
+          "valorDeMercado": 150000
+        },
+        {
+          "nome": "Marcelo Benevenuto",
+          "posicao": "Zagueiro",
+          "idade": "27",
+          "altura": "1,81m",
+          "pePreferido": "direito",
+          "valorDeMercado": 2500000
+        },
+        {
+          "nome": "Tobias Figueiredo",
+          "posicao": "Zagueiro",
+          "idade": "29",
+          "altura": "",
+          "pePreferido": "1,88m",
+          "valorDeMercado": 1500000
+        },
+        {
+          "nome": "Tinga",
+          "posicao": "Zagueiro",
+          "idade": "29",
+          "altura": "1,79m",
+          "pePreferido": "direito",
+          "valorDeMercado": 1000000
+        },
+        {
+          "nome": "Bernardo Schappo",
+          "posicao": "Zagueiro",
+          "idade": "24",
+          "altura": "",
+          "pePreferido": "1,91m",
+          "valorDeMercado": 750000
+        },
+        {
+          "nome": "Titi",
+          "posicao": "Zagueiro",
+          "idade": "35",
+          "altura": "1,88m",
+          "pePreferido": "esquerdo",
+          "valorDeMercado": 200000
+        },
+        {
+          "nome": "Bruno Pacheco",
+          "posicao": "Lateral Esq.",
+          "idade": "31",
+          "altura": "",
+          "pePreferido": "1,74m",
+          "valorDeMercado": 600000
+        },
+        {
+          "nome": "Gonzalo Escobar",
+          "posicao": "Lateral Esq.",
+          "idade": "26",
+          "altura": "1,71m",
+          "pePreferido": "esquerdo",
+          "valorDeMercado": 600000
+        },
+        {
+          "nome": "Dudu",
+          "posicao": "Lateral Dir.",
+          "idade": "26",
+          "altura": "",
+          "pePreferido": "1,75m",
+          "valorDeMercado": 1300000
+        },
+        {
+          "nome": "Yago Pikachu",
+          "posicao": "Lateral Dir.",
+          "idade": "31",
+          "altura": "1,69m",
+          "pePreferido": "direito",
+          "valorDeMercado": 1300000
+        },
+        {
+          "nome": "Emanuel Brítez",
+          "posicao": "Lateral Dir.",
+          "idade": "31",
+          "altura": "",
+          "pePreferido": "1,78m",
+          "valorDeMercado": 900000
+        },
+        {
+          "nome": "Zé Welison",
+          "posicao": "Volante",
+          "idade": "28",
+          "altura": "1,77m",
+          "pePreferido": "direito",
+          "valorDeMercado": 800000
+        },
+        {
+          "nome": "Lucas Sasha",
+          "posicao": "Volante",
+          "idade": "33",
+          "altura": "",
+          "pePreferido": "1,77m",
+          "valorDeMercado": 750000
+        },
+        {
+          "nome": "Pedro Augusto",
+          "posicao": "Volante",
+          "idade": "26",
+          "altura": "1,81m",
+          "pePreferido": "direito",
+          "valorDeMercado": 500000
+        },
+        {
+          "nome": "Zanocelo",
+          "posicao": "Meia Central",
+          "idade": "22",
+          "altura": "",
+          "pePreferido": "1,85m",
+          "valorDeMercado": 3000000
+        },
+        {
+          "nome": "Hércules",
+          "posicao": "Meia Central",
+          "idade": "22",
+          "altura": "1,78m",
+          "pePreferido": "direito",
+          "valorDeMercado": 3000000
+        },
+        {
+          "nome": "Caio Alexandre",
+          "posicao": "Meia Central",
+          "idade": "24",
+          "altura": "",
+          "pePreferido": "1,74m",
+          "valorDeMercado": 2500000
+        },
+        {
+          "nome": "Calebe",
+          "posicao": "Meia Ofensivo",
+          "idade": "23",
+          "altura": "1,73m",
+          "pePreferido": "esquerdo",
+          "valorDeMercado": 2500000
+        },
+        {
+          "nome": "Lucas Crispim",
+          "posicao": "Meia Ofensivo",
+          "idade": "29",
+          "altura": "",
+          "pePreferido": "1,78m",
+          "valorDeMercado": 2300000
+        },
+        {
+          "nome": "Tomás Pochettino",
+          "posicao": "Meia Ofensivo",
+          "idade": "27",
+          "altura": "1,80m",
+          "pePreferido": "direito",
+          "valorDeMercado": 2000000
+        },
+        {
+          "nome": "Pedro Rocha",
+          "posicao": "Ponta Esquerda",
+          "idade": "28",
+          "altura": "",
+          "pePreferido": "1,75m",
+          "valorDeMercado": 1500000
+        },
+        {
+          "nome": "Romarinho",
+          "posicao": "Ponta Esquerda",
+          "idade": "29",
+          "altura": "1,68m",
+          "pePreferido": "direito",
+          "valorDeMercado": 1300000
+        },
+        {
+          "nome": "Imanol Machuca",
+          "posicao": "Ponta Direita",
+          "idade": "23",
+          "altura": "",
+          "pePreferido": "1,70m",
+          "valorDeMercado": 2500000
+        },
+        {
+          "nome": "Marinho",
+          "posicao": "Ponta Direita",
+          "idade": "33",
+          "altura": "1,69m",
+          "pePreferido": "esquerdo",
+          "valorDeMercado": 1000000
+        },
+        {
+          "nome": "Guilherme",
+          "posicao": "Ponta Direita",
+          "idade": "28",
+          "altura": "",
+          "pePreferido": "1,78m",
+          "valorDeMercado": 800000
+        },
+        {
+          "nome": "Juan Martín Lucero",
+          "posicao": "Centroavante",
+          "idade": "31",
+          "altura": "1,82m",
+          "pePreferido": "direito",
+          "valorDeMercado": 1200000
+        },
+        {
+          "nome": "Thiago Galhardo",
+          "posicao": "Centroavante",
+          "idade": "34",
+          "altura": "",
+          "pePreferido": "1,83m",
+          "valorDeMercado": 1100000
+        },
+        {
+          "nome": "Silvio Romero",
+          "posicao": "Centroavante",
+          "idade": "35",
+          "altura": "1,75m",
+          "pePreferido": "direito",
+          "valorDeMercado": 800000
+        }
+      ]
+    },
+    "Goiás": {
+      "plantel": [
+        {
+          "nome": "Tadeu",
+          "posicao": "Goleiro",
+          "idade": "31",
+          "altura": "",
+          "pePreferido": "1,84m",
+          "valorDeMercado": 2000000
+        },
+        {
+          "nome": "Marcelo Rangel",
+          "posicao": "Goleiro",
+          "idade": "35",
+          "altura": "1,86m",
+          "pePreferido": "direito",
+          "valorDeMercado": 150000
+        },
+        {
+          "nome": "Matheus Alves",
+          "posicao": "Goleiro",
+          "idade": "28",
+          "altura": "",
+          "pePreferido": "1,90m",
+          "valorDeMercado": 100000
+        },
+        {
+          "nome": "Lucas Halter",
+          "posicao": "Zagueiro",
+          "idade": "23",
+          "altura": "1,88m",
+          "pePreferido": "direito",
+          "valorDeMercado": 3000000
+        },
+        {
+          "nome": "Bruno Melo",
+          "posicao": "Zagueiro",
+          "idade": "30",
+          "altura": "",
+          "pePreferido": "1,83m",
+          "valorDeMercado": 600000
+        },
+        {
+          "nome": "Edu",
+          "posicao": "Zagueiro",
+          "idade": "23",
+          "altura": "1,85m",
+          "pePreferido": "direito",
+          "valorDeMercado": 500000
+        },
+        {
+          "nome": "Sidimar",
+          "posicao": "Zagueiro",
+          "idade": "31",
+          "altura": "",
+          "pePreferido": "1,85m",
+          "valorDeMercado": 300000
+        },
+        {
+          "nome": "Hugo",
+          "posicao": "Lateral Esq.",
+          "idade": "26",
+          "altura": "1,79m",
+          "pePreferido": "esquerdo",
+          "valorDeMercado": 500000
+        },
+        {
+          "nome": "Sander",
+          "posicao": "Lateral Esq.",
+          "idade": "32",
+          "altura": "",
+          "pePreferido": "1,77m",
+          "valorDeMercado": 250000
+        },
+        {
+          "nome": "Bruno Santos",
+          "posicao": "Lateral Dir.",
+          "idade": "30",
+          "altura": "1,82m",
+          "pePreferido": "direito",
+          "valorDeMercado": 700000
+        },
+        {
+          "nome": "Maguinho",
+          "posicao": "Lateral Dir.",
+          "idade": "31",
+          "altura": "",
+          "pePreferido": "1,75m",
+          "valorDeMercado": 400000
+        },
+        {
+          "nome": "Apodi",
+          "posicao": "Lateral Dir.",
+          "idade": "36",
+          "altura": "1,72m",
+          "pePreferido": "direito",
+          "valorDeMercado": 200000
+        },
+        {
+          "nome": "Higor Meritão",
+          "posicao": "Volante",
+          "idade": "29",
+          "altura": "",
+          "pePreferido": "1,86m",
+          "valorDeMercado": 1500000
+        },
+        {
+          "nome": "Luís Oyama",
+          "posicao": "Volante",
+          "idade": "26",
+          "altura": "1,71m",
+          "pePreferido": "direito",
+          "valorDeMercado": 800000
+        },
+        {
+          "nome": "Willian Oliveira",
+          "posicao": "Volante",
+          "idade": "30",
+          "altura": "",
+          "pePreferido": "1,79m",
+          "valorDeMercado": 550000
+        },
+        {
+          "nome": "Diego",
+          "posicao": "Meia Central",
+          "idade": "27",
+          "altura": "1,75m",
+          "pePreferido": "direito",
+          "valorDeMercado": 1000000
+        },
+        {
+          "nome": "Raphael Guzzo",
+          "posicao": "Meia Central",
+          "idade": "28",
+          "altura": "",
+          "pePreferido": "1,78m",
+          "valorDeMercado": 700000
+        },
+        {
+          "nome": "Everton Morelli",
+          "posicao": "Meia Central",
+          "idade": "25",
+          "altura": "1,85m",
+          "pePreferido": "direito",
+          "valorDeMercado": 400000
+        },
+        {
+          "nome": "Guilherme",
+          "posicao": "Meia Ofensivo",
+          "idade": "32",
+          "altura": "",
+          "pePreferido": "1,74m",
+          "valorDeMercado": 1200000
+        },
+        {
+          "nome": "Dodô",
+          "posicao": "Meia Ofensivo",
+          "idade": "22",
+          "altura": "1,71m",
+          "pePreferido": "direito",
+          "valorDeMercado": 350000
+        },
+        {
+          "nome": "Vinícius",
+          "posicao": "Ponta Esquerda",
+          "idade": "30",
+          "altura": "",
+          "pePreferido": "1,79m",
+          "valorDeMercado": 1200000
+        },
+        {
+          "nome": "Diego Gonçalves",
+          "posicao": "Ponta Esquerda",
+          "idade": "29",
+          "altura": "1,82m",
+          "pePreferido": "direito",
+          "valorDeMercado": 500000
+        },
+        {
+          "nome": "Anderson Oliveira",
+          "posicao": "Ponta Esquerda",
+          "idade": "25",
+          "altura": "",
+          "pePreferido": "1,69m",
+          "valorDeMercado": 400000
+        },
+        {
+          "nome": "Alesson",
+          "posicao": "Ponta Direita",
+          "idade": "24",
+          "altura": "1,73m",
+          "pePreferido": "direito",
+          "valorDeMercado": 550000
+        },
+        {
+          "nome": "Pedro Junqueira",
+          "posicao": "Ponta Direita",
+          "idade": "19",
+          "altura": "",
+          "pePreferido": "1,82m",
+          "valorDeMercado": 500000
+        },
+        {
+          "nome": "Allano",
+          "posicao": "Ponta Direita",
+          "idade": "28",
+          "altura": "1,82m",
+          "pePreferido": "esquerdo",
+          "valorDeMercado": 350000
+        },
+        {
+          "nome": "Matheus Babi",
+          "posicao": "Centroavante",
+          "idade": "26",
+          "altura": "",
+          "pePreferido": "1,91m",
+          "valorDeMercado": 1500000
+        },
+        {
+          "nome": "Gabriel Novaes",
+          "posicao": "Centroavante",
+          "idade": "24",
+          "altura": "1,83m",
+          "pePreferido": "direito",
+          "valorDeMercado": 1400000
+        },
+        {
+          "nome": "Philippe Costa",
+          "posicao": "Centroavante",
+          "idade": "23",
+          "altura": "",
+          "pePreferido": "1,88m",
+          "valorDeMercado": 600000
+        },
+        {
+          "nome": "João Magno",
+          "posicao": "Centroavante",
+          "idade": "26",
+          "altura": "1,95m",
+          "pePreferido": "esquerdo",
+          "valorDeMercado": 225000
+        },
+        {
+          "nome": "Breno Herculano",
+          "posicao": "Centroavante",
+          "idade": "24",
+          "altura": "",
+          "pePreferido": "1,89m",
+          "valorDeMercado": 100000
+        }
+      ]
+    },
+    "Grêmio": {
+      "plantel": [
+        {
+          "nome": "Gabriel Grando",
+          "posicao": "Goleiro",
+          "idade": "23",
+          "altura": "",
+          "pePreferido": "1,92m",
+          "valorDeMercado": 2500000
+        },
+        {
+          "nome": "Felipe Scheibig",
+          "posicao": "Goleiro",
+          "idade": "23",
+          "altura": "1,96m",
+          "pePreferido": "direito",
+          "valorDeMercado": 100000
+        },
+        {
+          "nome": "Caíque",
+          "posicao": "Goleiro",
+          "idade": "26",
+          "altura": "",
+          "pePreferido": "1,98m",
+          "valorDeMercado": null
+        },
+        {
+          "nome": "Rodrigo Ely",
+          "posicao": "Zagueiro",
+          "idade": "29",
+          "altura": "1,88m",
+          "pePreferido": "direito",
+          "valorDeMercado": 3000000
+        },
+        {
+          "nome": "Walter Kannemann",
+          "posicao": "Zagueiro",
+          "idade": "32",
+          "altura": "",
+          "pePreferido": "1,84m",
+          "valorDeMercado": 1000000
+        },
+        {
+          "nome": "Bruno Alves",
+          "posicao": "Zagueiro",
+          "idade": "32",
+          "altura": "1,85m",
+          "pePreferido": "direito",
+          "valorDeMercado": 800000
+        },
+        {
+          "nome": "Bruno Uvini",
+          "posicao": "Zagueiro",
+          "idade": "32",
+          "altura": "",
+          "pePreferido": "1,87m",
+          "valorDeMercado": 500000
+        },
+        {
+          "nome": "Gustavo Martins",
+          "posicao": "Zagueiro",
+          "idade": "21",
+          "altura": "1,91m",
+          "pePreferido": "direito",
+          "valorDeMercado": 500000
+        },
+        {
+          "nome": "Natã",
+          "posicao": "Zagueiro",
+          "idade": "22",
+          "altura": "",
+          "pePreferido": "1,80m",
+          "valorDeMercado": 400000
+        },
+        {
+          "nome": "Pedro Geromel",
+          "posicao": "Zagueiro",
+          "idade": "37",
+          "altura": "1,90m",
+          "pePreferido": "direito",
+          "valorDeMercado": 250000
+        },
+        {
+          "nome": "Cuiabano",
+          "posicao": "Lateral Esq.",
+          "idade": "20",
+          "altura": "",
+          "pePreferido": "1,79m",
+          "valorDeMercado": 1000000
+        },
+        {
+          "nome": "Reinaldo",
+          "posicao": "Lateral Esq.",
+          "idade": "33",
+          "altura": "1,78m",
+          "pePreferido": "esquerdo",
+          "valorDeMercado": 900000
+        },
+        {
+          "nome": "Fábio",
+          "posicao": "Lateral Dir.",
+          "idade": "33",
+          "altura": "",
+          "pePreferido": "1,72m",
+          "valorDeMercado": 1000000
+        },
+        {
+          "nome": "João Pedro",
+          "posicao": "Lateral Dir.",
+          "idade": "26",
+          "altura": "1,79m",
+          "pePreferido": "direito",
+          "valorDeMercado": 900000
+        },
+        {
+          "nome": "Mathías Villasanti",
+          "posicao": "Volante",
+          "idade": "26",
+          "altura": "",
+          "pePreferido": "1,78m",
+          "valorDeMercado": 7000000
+        },
+        {
+          "nome": "Ronald",
+          "posicao": "Volante",
+          "idade": "20",
+          "altura": "1,86m",
+          "pePreferido": "direito",
+          "valorDeMercado": 800000
+        },
+        {
+          "nome": "Lucas Milla",
+          "posicao": "Volante",
+          "idade": "20",
+          "altura": "",
+          "pePreferido": "1,76m",
+          "valorDeMercado": 400000
+        },
+        {
+          "nome": "Bitello",
+          "posicao": "Meia Central",
+          "idade": "23",
+          "altura": "1,78m",
+          "pePreferido": "direito",
+          "valorDeMercado": 7000000
+        },
+        {
+          "nome": "Felipe Carballo",
+          "posicao": "Meia Central",
+          "idade": "26",
+          "altura": "",
+          "pePreferido": "1,77m",
+          "valorDeMercado": 5000000
+        },
+        {
+          "nome": "Pepê",
+          "posicao": "Meia Central",
+          "idade": "25",
+          "altura": "1,83m",
+          "pePreferido": "direito",
+          "valorDeMercado": 1800000
+        },
+        {
+          "nome": "Franco Cristaldo",
+          "posicao": "Meia Ofensivo",
+          "idade": "27",
+          "altura": "",
+          "pePreferido": "1,75m",
+          "valorDeMercado": 7000000
+        },
+        {
+          "nome": "Nathan",
+          "posicao": "Meia Ofensivo",
+          "idade": "27",
+          "altura": "1,77m",
+          "pePreferido": "direito",
+          "valorDeMercado": 2000000
+        },
+        {
+          "nome": "Gustavinho",
+          "posicao": "Meia Ofensivo",
+          "idade": "21",
+          "altura": "",
+          "pePreferido": "1,74m",
+          "valorDeMercado": 800000
+        },
+        {
+          "nome": "Luan",
+          "posicao": "Meia Ofensivo",
+          "idade": "30",
+          "altura": "1,80m",
+          "pePreferido": "direito",
+          "valorDeMercado": 500000
+        },
+        {
+          "nome": "Ferreira",
+          "posicao": "Ponta Esquerda",
+          "idade": "25",
+          "altura": "",
+          "pePreferido": "1,75m",
+          "valorDeMercado": 5000000
+        },
+        {
+          "nome": "Lucas Besozzi",
+          "posicao": "Ponta Esquerda",
+          "idade": "20",
+          "altura": "1,76m",
+          "pePreferido": "direito",
+          "valorDeMercado": 1200000
+        },
+        {
+          "nome": "Juan Iturbe",
+          "posicao": "Ponta Esquerda",
+          "idade": "30",
+          "altura": "",
+          "pePreferido": "1,73m",
+          "valorDeMercado": 1000000
+        },
+        {
+          "nome": "Zinho",
+          "posicao": "Ponta Esquerda",
+          "idade": "20",
+          "altura": "1,78m",
+          "pePreferido": "direito",
+          "valorDeMercado": 700000
+        },
+        {
+          "nome": "Jhonata Robert",
+          "posicao": "Ponta Direita",
+          "idade": "23",
+          "altura": "",
+          "pePreferido": "1,79m",
+          "valorDeMercado": 1000000
+        },
+        {
+          "nome": "Everton Galdino",
+          "posicao": "Ponta Direita",
+          "idade": "26",
+          "altura": "1,77m",
+          "pePreferido": "esquerdo",
+          "valorDeMercado": 900000
+        },
+        {
+          "nome": "João Pedro",
+          "posicao": "Centroavante",
+          "idade": "31",
+          "altura": "",
+          "pePreferido": "1,84m",
+          "valorDeMercado": 6000000
+        },
+        {
+          "nome": "Luis Suárez",
+          "posicao": "Centroavante",
+          "idade": "36",
+          "altura": "1,82m",
+          "pePreferido": "direito",
+          "valorDeMercado": 4000000
+        },
+        {
+          "nome": "André",
+          "posicao": "Centroavante",
+          "idade": "21",
+          "altura": "",
+          "pePreferido": "1,89m",
+          "valorDeMercado": 500000
+        }
+      ]
+    },
+    "Internacional": {
+      "plantel": [
+        {
+          "nome": "Sergio Rochet",
+          "posicao": "Goleiro",
+          "idade": "30",
+          "altura": "",
+          "pePreferido": "1,90m",
+          "valorDeMercado": 3500000
+        },
+        {
+          "nome": "Keiller",
+          "posicao": "Goleiro",
+          "idade": "26",
+          "altura": "1,93m",
+          "pePreferido": "direito",
+          "valorDeMercado": 1500000
+        },
+        {
+          "nome": "Anthoni",
+          "posicao": "Goleiro",
+          "idade": "21",
+          "altura": "",
+          "pePreferido": "1,93m",
+          "valorDeMercado": 300000
+        },
+        {
+          "nome": "Emerson Junior",
+          "posicao": "Goleiro",
+          "idade": "23",
+          "altura": "1,96m",
+          "pePreferido": "direito",
+          "valorDeMercado": 100000
+        },
+        {
+          "nome": "Vitão",
+          "posicao": "Zagueiro",
+          "idade": "23",
+          "altura": "",
+          "pePreferido": "1,85m",
+          "valorDeMercado": 7500000
+        },
+        {
+          "nome": "Nicolás Hernández",
+          "posicao": "Zagueiro",
+          "idade": "25",
+          "altura": "1,85m",
+          "pePreferido": "esquerdo",
+          "valorDeMercado": 800000
+        },
+        {
+          "nome": "Rodrigo Moledo",
+          "posicao": "Zagueiro",
+          "idade": "35",
+          "altura": "",
+          "pePreferido": "1,88m",
+          "valorDeMercado": 500000
+        },
+        {
+          "nome": "Gabriel Mercado",
+          "posicao": "Zagueiro",
+          "idade": "36",
+          "altura": "1,81m",
+          "pePreferido": "direito",
+          "valorDeMercado": 250000
+        },
+        {
+          "nome": "Thauan Lara",
+          "posicao": "Lateral Esq.",
+          "idade": "19",
+          "altura": "",
+          "pePreferido": "1,76m",
+          "valorDeMercado": 1000000
+        },
+        {
+          "nome": "Renê",
+          "posicao": "Lateral Esq.",
+          "idade": "30",
+          "altura": "1,74m",
+          "pePreferido": "esquerdo",
+          "valorDeMercado": 900000
+        },
+        {
+          "nome": "Rangel",
+          "posicao": "Lateral Esq.",
+          "idade": "19",
+          "altura": "",
+          "pePreferido": "1,77m",
+          "valorDeMercado": 500000
+        },
+        {
+          "nome": "Fabricio Bustos",
+          "posicao": "Lateral Dir.",
+          "idade": "27",
+          "altura": "1,67m",
+          "pePreferido": "direito",
+          "valorDeMercado": 6500000
+        },
+        {
+          "nome": "Hugo Mallo",
+          "posicao": "Lateral Dir.",
+          "idade": "32",
+          "altura": "",
+          "pePreferido": "1,74m",
+          "valorDeMercado": 3000000
+        },
+        {
+          "nome": "Igor Gomes",
+          "posicao": "Lateral Dir.",
+          "idade": "22",
+          "altura": "1,85m",
+          "pePreferido": "direito",
+          "valorDeMercado": 200000
+        },
+        {
+          "nome": "Gabriel",
+          "posicao": "Volante",
+          "idade": "31",
+          "altura": "",
+          "pePreferido": "1,72m",
+          "valorDeMercado": 2000000
+        },
+        {
+          "nome": "Campanharo",
+          "posicao": "Volante",
+          "idade": "31",
+          "altura": "1,78m",
+          "pePreferido": "direito",
+          "valorDeMercado": 1200000
+        },
+        {
+          "nome": "Lucas Ramos",
+          "posicao": "Volante",
+          "idade": "22",
+          "altura": "",
+          "pePreferido": "1,73m",
+          "valorDeMercado": 1100000
+        },
+        {
+          "nome": "Matheus Dias",
+          "posicao": "Volante",
+          "idade": "21",
+          "altura": "1,87m",
+          "pePreferido": "direito",
+          "valorDeMercado": 500000
+        },
+        {
+          "nome": "Rômulo",
+          "posicao": "Volante",
+          "idade": "23",
+          "altura": "",
+          "pePreferido": "1,82m",
+          "valorDeMercado": 200000
+        },
+        {
+          "nome": "Johnny",
+          "posicao": "Meia Central",
+          "idade": "21",
+          "altura": "1,86m",
+          "pePreferido": "direito",
+          "valorDeMercado": 5000000
+        },
+        {
+          "nome": "Carlos de Pena",
+          "posicao": "Meia Central",
+          "idade": "31",
+          "altura": "",
+          "pePreferido": "1,77m",
+          "valorDeMercado": 3500000
+        },
+        {
+          "nome": "Charles Aránguiz",
+          "posicao": "Meia Central",
+          "idade": "34",
+          "altura": "1,71m",
+          "pePreferido": "direito",
+          "valorDeMercado": 3000000
+        },
+        {
+          "nome": "Bruno Henrique",
+          "posicao": "Meia Central",
+          "idade": "33",
+          "altura": "",
+          "pePreferido": "1,80m",
+          "valorDeMercado": 700000
+        },
+        {
+          "nome": "Mauricio",
+          "posicao": "Meia Ofensivo",
+          "idade": "22",
+          "altura": "1,74m",
+          "pePreferido": "esquerdo",
+          "valorDeMercado": 6000000
+        },
+        {
+          "nome": "Alan Patrick",
+          "posicao": "Meia Ofensivo",
+          "idade": "32",
+          "altura": "",
+          "pePreferido": "1,77m",
+          "valorDeMercado": 4000000
+        },
+        {
+          "nome": "Estêvão",
+          "posicao": "Meia Ofensivo",
+          "idade": "21",
+          "altura": "1,76m",
+          "pePreferido": "esquerdo",
+          "valorDeMercado": 300000
+        },
+        {
+          "nome": "Wanderson",
+          "posicao": "Ponta Esquerda",
+          "idade": "28",
+          "altura": "",
+          "pePreferido": "1,75m",
+          "valorDeMercado": 9000000
+        },
+        {
+          "nome": "Pedro Henrique",
+          "posicao": "Ponta Esquerda",
+          "idade": "33",
+          "altura": "1,81m",
+          "pePreferido": "direito",
+          "valorDeMercado": 1700000
+        },
+        {
+          "nome": "Jean Dias",
+          "posicao": "Ponta Direita",
+          "idade": "32",
+          "altura": "",
+          "pePreferido": "1,70m",
+          "valorDeMercado": 600000
+        },
+        {
+          "nome": "Gabriel Barros",
+          "posicao": "Ponta Direita",
+          "idade": "21",
+          "altura": "1,82m",
+          "pePreferido": "esquerdo",
+          "valorDeMercado": 200000
+        },
+        {
+          "nome": "Enner Valencia",
+          "posicao": "Centroavante",
+          "idade": "33",
+          "altura": "",
+          "pePreferido": "1,77m",
+          "valorDeMercado": 3800000
+        },
+        {
+          "nome": "Lucca",
+          "posicao": "Centroavante",
+          "idade": "20",
+          "altura": "1,80m",
+          "pePreferido": "direito",
+          "valorDeMercado": 700000
+        },
+        {
+          "nome": "Luiz Adriano",
+          "posicao": "Centroavante",
+          "idade": "36",
+          "altura": "",
+          "pePreferido": "1,84m",
+          "valorDeMercado": 400000
+        }
+      ]
+    },
+    "Palmeiras": {
+      "plantel": [
+        {
+          "nome": "Weverton",
+          "posicao": "Goleiro",
+          "idade": "35",
+          "altura": "",
+          "pePreferido": "1,89m",
+          "valorDeMercado": 2500000
+        },
+        {
+          "nome": "Kaique",
+          "posicao": "Goleiro",
+          "idade": "20",
+          "altura": "1,92m",
+          "pePreferido": "ambos",
+          "valorDeMercado": 400000
+        },
+        {
+          "nome": "Marcelo Lomba",
+          "posicao": "Goleiro",
+          "idade": "36",
+          "altura": "",
+          "pePreferido": "1,88m",
+          "valorDeMercado": 300000
+        },
+        {
+          "nome": "Mateus",
+          "posicao": "Goleiro",
+          "idade": "21",
+          "altura": "1,99m",
+          "pePreferido": "direito",
+          "valorDeMercado": 100000
+        },
+        {
+          "nome": "Gustavo Gómez",
+          "posicao": "Zagueiro",
+          "idade": "30",
+          "altura": "",
+          "pePreferido": "1,85m",
+          "valorDeMercado": 8500000
+        },
+        {
+          "nome": "Murilo",
+          "posicao": "Zagueiro",
+          "idade": "26",
+          "altura": "1,88m",
+          "pePreferido": "direito",
+          "valorDeMercado": 8500000
+        },
+        {
+          "nome": "Luan",
+          "posicao": "Zagueiro",
+          "idade": "30",
+          "altura": "",
+          "pePreferido": "1,88m",
+          "valorDeMercado": 2000000
+        },
+        {
+          "nome": "Naves",
+          "posicao": "Zagueiro",
+          "idade": "21",
+          "altura": "1,82m",
+          "pePreferido": "direito",
+          "valorDeMercado": 1500000
+        },
+        {
+          "nome": "Michel",
+          "posicao": "Zagueiro",
+          "idade": "20",
+          "altura": "",
+          "pePreferido": "1,88m",
+          "valorDeMercado": 700000
+        },
+        {
+          "nome": "Joaquín Piquerez",
+          "posicao": "Lateral Esq.",
+          "idade": "25",
+          "altura": "1,85m",
+          "pePreferido": "esquerdo",
+          "valorDeMercado": 10000000
+        },
+        {
+          "nome": "Vanderlan",
+          "posicao": "Lateral Esq.",
+          "idade": "20",
+          "altura": "",
+          "pePreferido": "1,83m",
+          "valorDeMercado": 4000000
+        },
+        {
+          "nome": "Mayke",
+          "posicao": "Lateral Dir.",
+          "idade": "30",
+          "altura": "1,78m",
+          "pePreferido": "direito",
+          "valorDeMercado": 2000000
+        },
+        {
+          "nome": "Garcia",
+          "posicao": "Lateral Dir.",
+          "idade": "21",
+          "altura": "",
+          "pePreferido": "1,75m",
+          "valorDeMercado": 1500000
+        },
+        {
+          "nome": "Marcos Rocha",
+          "posicao": "Lateral Dir.",
+          "idade": "34",
+          "altura": "1,76m",
+          "pePreferido": "direito",
+          "valorDeMercado": 1000000
+        },
+        {
+          "nome": "Fabinho",
+          "posicao": "Volante",
+          "idade": "21",
+          "altura": "",
+          "pePreferido": "1,78m",
+          "valorDeMercado": 4000000
+        },
+        {
+          "nome": "Jailson",
+          "posicao": "Volante",
+          "idade": "27",
+          "altura": "1,87m",
+          "pePreferido": "direito",
+          "valorDeMercado": 1500000
+        },
+        {
+          "nome": "Gabriel Menino",
+          "posicao": "Meia Central",
+          "idade": "22",
+          "altura": "",
+          "pePreferido": "1,76m",
+          "valorDeMercado": 10000000
+        },
+        {
+          "nome": "Zé Rafael",
+          "posicao": "Meia Central",
+          "idade": "30",
+          "altura": "1,75m",
+          "pePreferido": "direito",
+          "valorDeMercado": 4500000
+        },
+        {
+          "nome": "Richard Ríos",
+          "posicao": "Meia Central",
+          "idade": "23",
+          "altura": "",
+          "pePreferido": "1,87m",
+          "valorDeMercado": 2500000
+        },
+        {
+          "nome": "Eduard Atuesta",
+          "posicao": "Meia Central",
+          "idade": "26",
+          "altura": "1,80m",
+          "pePreferido": "direito",
+          "valorDeMercado": 2000000
+        },
+        {
+          "nome": "Raphael Veiga",
+          "posicao": "Meia Ofensivo",
+          "idade": "28",
+          "altura": "",
+          "pePreferido": "1,76m",
+          "valorDeMercado": 16000000
+        },
+        {
+          "nome": "Luis Guilherme",
+          "posicao": "Meia Ofensivo",
+          "idade": "17",
+          "altura": "1,75m",
+          "pePreferido": "esquerdo",
+          "valorDeMercado": 7000000
+        },
+        {
+          "nome": "Jhon Jhon",
+          "posicao": "Meia Ofensivo",
+          "idade": "20",
+          "altura": "",
+          "pePreferido": "1,78m",
+          "valorDeMercado": 2500000
+        },
+        {
+          "nome": "Dudu",
+          "posicao": "Ponta Esquerda",
+          "idade": "31",
+          "altura": "1,66m",
+          "pePreferido": "direito",
+          "valorDeMercado": 9000000
+        },
+        {
+          "nome": "Breno Lopes",
+          "posicao": "Ponta Esquerda",
+          "idade": "27",
+          "altura": "",
+          "pePreferido": "1,78m",
+          "valorDeMercado": 1500000
+        },
+        {
+          "nome": "Kevin",
+          "posicao": "Ponta Esquerda",
+          "idade": "20",
+          "altura": "1,76m",
+          "pePreferido": "direito",
+          "valorDeMercado": 1000000
+        },
+        {
+          "nome": "Artur",
+          "posicao": "Ponta Direita",
+          "idade": "25",
+          "altura": "",
+          "pePreferido": "1,68m",
+          "valorDeMercado": 10000000
+        },
+        {
+          "nome": "Gabriel Silva",
+          "posicao": "Ponta Direita",
+          "idade": "21",
+          "altura": "1,77m",
+          "pePreferido": "direito",
+          "valorDeMercado": 2500000
+        },
+        {
+          "nome": "Endrick",
+          "posicao": "Centroavante",
+          "idade": "17",
+          "altura": "",
+          "pePreferido": "1,73m",
+          "valorDeMercado": 25000000
+        },
+        {
+          "nome": "Rony",
+          "posicao": "Centroavante",
+          "idade": "28",
+          "altura": "1,67m",
+          "pePreferido": "direito",
+          "valorDeMercado": 13000000
+        },
+        {
+          "nome": "José Manuel López",
+          "posicao": "Centroavante",
+          "idade": "22",
+          "altura": "",
+          "pePreferido": "1,88m",
+          "valorDeMercado": 7000000
+        },
+        {
+          "nome": "Daniel Silva",
+          "posicao": "Centroavante",
+          "idade": "19",
+          "altura": "1,81m",
+          "pePreferido": "direito",
+          "valorDeMercado": 800000
+        }
+      ]
+    },
+    "RB Bragantino": {
+      "plantel": [
+        {
+          "nome": "Cleiton",
+          "posicao": "Goleiro",
+          "idade": "26",
+          "altura": "",
+          "pePreferido": "1,90m",
+          "valorDeMercado": 4500000
+        },
+        {
+          "nome": "Lucão",
+          "posicao": "Goleiro",
+          "idade": "22",
+          "altura": "1,90m",
+          "pePreferido": "direito",
+          "valorDeMercado": 1500000
+        },
+        {
+          "nome": "Maycon",
+          "posicao": "Goleiro",
+          "idade": "24",
+          "altura": "",
+          "pePreferido": "1,91m",
+          "valorDeMercado": 100000
+        },
+        {
+          "nome": "Léo Ortiz",
+          "posicao": "Zagueiro",
+          "idade": "27",
+          "altura": "1,85m",
+          "pePreferido": "direito",
+          "valorDeMercado": 6000000
+        },
+        {
+          "nome": "Lucas Cunha",
+          "posicao": "Zagueiro",
+          "idade": "26",
+          "altura": "",
+          "pePreferido": "1,86m",
+          "valorDeMercado": 2500000
+        },
+        {
+          "nome": "Luan Patrick",
+          "posicao": "Zagueiro",
+          "idade": "21",
+          "altura": "1,90m",
+          "pePreferido": "direito",
+          "valorDeMercado": 1300000
+        },
+        {
+          "nome": "Leonardo Realpe",
+          "posicao": "Zagueiro",
+          "idade": "22",
+          "altura": "",
+          "pePreferido": "1,86m",
+          "valorDeMercado": 1000000
+        },
+        {
+          "nome": "Eduardo Santos",
+          "posicao": "Zagueiro",
+          "idade": "25",
+          "altura": "1,96m",
+          "pePreferido": "direito",
+          "valorDeMercado": 900000
+        },
+        {
+          "nome": "Lucas Rafael",
+          "posicao": "Zagueiro",
+          "idade": "25",
+          "altura": "",
+          "pePreferido": "1,88m",
+          "valorDeMercado": 225000
+        },
+        {
+          "nome": "Cipriano",
+          "posicao": "Zagueiro",
+          "idade": "20",
+          "altura": "1,96m",
+          "pePreferido": "esquerdo",
+          "valorDeMercado": 150000
+        },
+        {
+          "nome": "Luan Cândido",
+          "posicao": "Lateral Esq.",
+          "idade": "22",
+          "altura": "",
+          "pePreferido": "1,87m",
+          "valorDeMercado": 5500000
+        },
+        {
+          "nome": "Juninho Capixaba",
+          "posicao": "Lateral Esq.",
+          "idade": "26",
+          "altura": "1,76m",
+          "pePreferido": "esquerdo",
+          "valorDeMercado": 1300000
+        },
+        {
+          "nome": "Guilherme",
+          "posicao": "Lateral Esq.",
+          "idade": "21",
+          "altura": "",
+          "pePreferido": "1,78m",
+          "valorDeMercado": 450000
+        },
+        {
+          "nome": "José Hurtado",
+          "posicao": "Lateral Dir.",
+          "idade": "21",
+          "altura": "1,78m",
+          "pePreferido": "direito",
+          "valorDeMercado": 1500000
+        },
+        {
+          "nome": "Aderlan",
+          "posicao": "Lateral Dir.",
+          "idade": "33",
+          "altura": "",
+          "pePreferido": "1,82m",
+          "valorDeMercado": 800000
+        },
+        {
+          "nome": "Jadsom Silva",
+          "posicao": "Volante",
+          "idade": "22",
+          "altura": "1,76m",
+          "pePreferido": "direito",
+          "valorDeMercado": 3000000
+        },
+        {
+          "nome": "Raul",
+          "posicao": "Volante",
+          "idade": "27",
+          "altura": "",
+          "pePreferido": "1,80m",
+          "valorDeMercado": 2000000
+        },
+        {
+          "nome": "Matheus Fernandes",
+          "posicao": "Volante",
+          "idade": "25",
+          "altura": "1,83m",
+          "pePreferido": "direito",
+          "valorDeMercado": 1500000
+        },
+        {
+          "nome": "Eric Ramires",
+          "posicao": "Meia Central",
+          "idade": "23",
+          "altura": "",
+          "pePreferido": "1,74m",
+          "valorDeMercado": 4000000
+        },
+        {
+          "nome": "Lucas Evangelista",
+          "posicao": "Meia Central",
+          "idade": "28",
+          "altura": "1,81m",
+          "pePreferido": "esquerdo",
+          "valorDeMercado": 3500000
+        },
+        {
+          "nome": "Bruninho",
+          "posicao": "Meia Ofensivo",
+          "idade": "20",
+          "altura": "",
+          "pePreferido": "1,74m",
+          "valorDeMercado": 2500000
+        },
+        {
+          "nome": "Gustavinho",
+          "posicao": "Meia Ofensivo",
+          "idade": "19",
+          "altura": "1,76m",
+          "pePreferido": "direito",
+          "valorDeMercado": 700000
+        },
+        {
+          "nome": "Vitinho",
+          "posicao": "Ponta Esquerda",
+          "idade": "24",
+          "altura": "",
+          "pePreferido": "1,81m",
+          "valorDeMercado": 5000000
+        },
+        {
+          "nome": "Henry Mosquera",
+          "posicao": "Ponta Esquerda",
+          "idade": "21",
+          "altura": "1,75m",
+          "pePreferido": "direito",
+          "valorDeMercado": 1500000
+        },
+        {
+          "nome": "Sorriso",
+          "posicao": "Ponta Esquerda",
+          "idade": "22",
+          "altura": "",
+          "pePreferido": "1,75m",
+          "valorDeMercado": 1500000
+        },
+        {
+          "nome": "Talisson",
+          "posicao": "Ponta Esquerda",
+          "idade": "21",
+          "altura": "1,88m",
+          "pePreferido": "direito",
+          "valorDeMercado": 100000
+        },
+        {
+          "nome": "Helinho",
+          "posicao": "Ponta Direita",
+          "idade": "23",
+          "altura": "",
+          "pePreferido": "1,75m",
+          "valorDeMercado": 6000000
+        },
+        {
+          "nome": "Matheus Gonçalves",
+          "posicao": "Ponta Direita",
+          "idade": "18",
+          "altura": "1,75m",
+          "pePreferido": "esquerdo",
+          "valorDeMercado": 1500000
+        },
+        {
+          "nome": "Ignacio Laquintana",
+          "posicao": "Ponta Direita",
+          "idade": "24",
+          "altura": "",
+          "pePreferido": "1,73m",
+          "valorDeMercado": 1000000
+        },
+        {
+          "nome": "Kawê",
+          "posicao": "Ponta Direita",
+          "idade": "21",
+          "altura": "1,75m",
+          "pePreferido": "direito",
+          "valorDeMercado": 300000
+        },
+        {
+          "nome": "Alerrandro",
+          "posicao": "Centroavante",
+          "idade": "23",
+          "altura": "",
+          "pePreferido": "1,76m",
+          "valorDeMercado": 4000000
+        },
+        {
+          "nome": "Thiago Borbas",
+          "posicao": "Centroavante",
+          "idade": "21",
+          "altura": "1,86m",
+          "pePreferido": "direito",
+          "valorDeMercado": 4000000
+        },
+        {
+          "nome": "Eduardo Sasha",
+          "posicao": "Centroavante",
+          "idade": "31",
+          "altura": "",
+          "pePreferido": "1,73m",
+          "valorDeMercado": 1800000
+        }
+      ]
+    },
+    "Santos": {
+      "plantel": [
+        {
+          "nome": "João Paulo",
+          "posicao": "Goleiro",
+          "idade": "28",
+          "altura": "",
+          "pePreferido": "1,89m",
+          "valorDeMercado": 7000000
+        },
+        {
+          "nome": "Vladimir",
+          "posicao": "Goleiro",
+          "idade": "34",
+          "altura": "1,92m",
+          "pePreferido": "direito",
+          "valorDeMercado": 200000
+        },
+        {
+          "nome": "Paulo Mazoti",
+          "posicao": "Goleiro",
+          "idade": "23",
+          "altura": "",
+          "pePreferido": "1,88m",
+          "valorDeMercado": 100000
+        },
+        {
+          "nome": "Diógenes",
+          "posicao": "Goleiro",
+          "idade": "22",
+          "altura": "1,86m",
+          "pePreferido": "direito",
+          "valorDeMercado": 100000
+        },
+        {
+          "nome": "João Basso",
+          "posicao": "Zagueiro",
+          "idade": "26",
+          "altura": "",
+          "pePreferido": "1,87m",
+          "valorDeMercado": 1500000
+        },
+        {
+          "nome": "Messias",
+          "posicao": "Zagueiro",
+          "idade": "28",
+          "altura": "1,91m",
+          "pePreferido": "direito",
+          "valorDeMercado": 800000
+        },
+        {
+          "nome": "Joaquim",
+          "posicao": "Zagueiro",
+          "idade": "24",
+          "altura": "",
+          "pePreferido": "1,90m",
+          "valorDeMercado": 700000
+        },
+        {
+          "nome": "Alex",
+          "posicao": "Zagueiro",
+          "idade": "24",
+          "altura": "1,89m",
+          "pePreferido": "esquerdo",
+          "valorDeMercado": 600000
+        },
+        {
+          "nome": "Felipe Jonatan",
+          "posicao": "Lateral Esq.",
+          "idade": "25",
+          "altura": "",
+          "pePreferido": "1,72m",
+          "valorDeMercado": 2500000
+        },
+        {
+          "nome": "Dodô",
+          "posicao": "Lateral Esq.",
+          "idade": "31",
+          "altura": "1,77m",
+          "pePreferido": "esquerdo",
+          "valorDeMercado": 800000
+        },
+        {
+          "nome": "João Lucas",
+          "posicao": "Lateral Dir.",
+          "idade": "25",
+          "altura": "",
+          "pePreferido": "1,81m",
+          "valorDeMercado": 2000000
+        },
+        {
+          "nome": "Júnior Caiçara",
+          "posicao": "Lateral Dir.",
+          "idade": "34",
+          "altura": "1,73m",
+          "pePreferido": "direito",
+          "valorDeMercado": 250000
+        },
+        {
+          "nome": "Gabriel Inocêncio",
+          "posicao": "Lateral Dir.",
+          "idade": "29",
+          "altura": "",
+          "pePreferido": "1,75m",
+          "valorDeMercado": 100000
+        },
+        {
+          "nome": "Cadu",
+          "posicao": "Lateral Dir.",
+          "idade": "21",
+          "altura": "1,70m",
+          "pePreferido": "direito",
+          "valorDeMercado": 100000
+        },
+        {
+          "nome": "Sandry",
+          "posicao": "Volante",
+          "idade": "20",
+          "altura": "",
+          "pePreferido": "1,74m",
+          "valorDeMercado": 4000000
+        },
+        {
+          "nome": "Rodrigo Fernández",
+          "posicao": "Volante",
+          "idade": "27",
+          "altura": "1,74m",
+          "pePreferido": "direito",
+          "valorDeMercado": 1100000
+        },
+        {
+          "nome": "Tomás Rincón",
+          "posicao": "Volante",
+          "idade": "35",
+          "altura": "",
+          "pePreferido": "1,77m",
+          "valorDeMercado": 800000
+        },
+        {
+          "nome": "Dodi",
+          "posicao": "Volante",
+          "idade": "27",
+          "altura": "1,70m",
+          "pePreferido": "direito",
+          "valorDeMercado": 700000
+        },
+        {
+          "nome": "Alison",
+          "posicao": "Volante",
+          "idade": "30",
+          "altura": "",
+          "pePreferido": "1,82m",
+          "valorDeMercado": 600000
+        },
+        {
+          "nome": "Camacho",
+          "posicao": "Volante",
+          "idade": "33",
+          "altura": "1,81m",
+          "pePreferido": "direito",
+          "valorDeMercado": 300000
+        },
+        {
+          "nome": "Jean Lucas",
+          "posicao": "Meia Central",
+          "idade": "25",
+          "altura": "",
+          "pePreferido": "1,79m",
+          "valorDeMercado": 5000000
+        },
+        {
+          "nome": "Nonato",
+          "posicao": "Meia Central",
+          "idade": "25",
+          "altura": "1,75m",
+          "pePreferido": "direito",
+          "valorDeMercado": 2000000
+        },
+        {
+          "nome": "Ed Carlos",
+          "posicao": "Meia Central",
+          "idade": "22",
+          "altura": "",
+          "pePreferido": "1,86m",
+          "valorDeMercado": 900000
+        },
+        {
+          "nome": "Kevin Malthus",
+          "posicao": "Meia Central",
+          "idade": "20",
+          "altura": "1,77m",
+          "pePreferido": "direito",
+          "valorDeMercado": 100000
+        },
+        {
+          "nome": "Lucas Lima",
+          "posicao": "Meia Ofensivo",
+          "idade": "33",
+          "altura": "",
+          "pePreferido": "1,76m",
+          "valorDeMercado": 1000000
+        },
+        {
+          "nome": "Luan Dias",
+          "posicao": "Meia Ofensivo",
+          "idade": "26",
+          "altura": "1,81m",
+          "pePreferido": "esquerdo",
+          "valorDeMercado": 750000
+        },
+        {
+          "nome": "Miguelito",
+          "posicao": "Meia Ofensivo",
+          "idade": "19",
+          "altura": "",
+          "pePreferido": "1,79m",
+          "valorDeMercado": 300000
+        },
+        {
+          "nome": "Yeferson Soteldo",
+          "posicao": "Ponta Esquerda",
+          "idade": "26",
+          "altura": "1,60m",
+          "pePreferido": "direito",
+          "valorDeMercado": 5000000
+        },
+        {
+          "nome": "Lucas Braga",
+          "posicao": "Ponta Esquerda",
+          "idade": "26",
+          "altura": "",
+          "pePreferido": "1,84m",
+          "valorDeMercado": 1500000
+        },
+        {
+          "nome": "Weslley Patati",
+          "posicao": "Ponta Esquerda",
+          "idade": "19",
+          "altura": "1,64m",
+          "pePreferido": "ambos",
+          "valorDeMercado": 1000000
+        },
+        {
+          "nome": "Renyer",
+          "posicao": "Ponta Direita",
+          "idade": "20",
+          "altura": "",
+          "pePreferido": "1,74m",
+          "valorDeMercado": 2500000
+        },
+        {
+          "nome": "Stiven Mendoza",
+          "posicao": "Ponta Direita",
+          "idade": "31",
+          "altura": "1,72m",
+          "pePreferido": "esquerdo",
+          "valorDeMercado": 1200000
+        },
+        {
+          "nome": "Marcos Leonardo",
+          "posicao": "Centroavante",
+          "idade": "20",
+          "altura": "",
+          "pePreferido": "1,76m",
+          "valorDeMercado": 17000000
+        },
+        {
+          "nome": "Julio Furch",
+          "posicao": "Centroavante",
+          "idade": "34",
+          "altura": "1,88m",
+          "pePreferido": "direito",
+          "valorDeMercado": 1200000
+        },
+        {
+          "nome": "Bruno Mezenga",
+          "posicao": "Centroavante",
+          "idade": "35",
+          "altura": "",
+          "pePreferido": "1,85m",
+          "valorDeMercado": 300000
+        }
+      ]
+    },
+    "Sao Paulo": {
+      "plantel": [
+        {
+          "nome": "Jandrei",
+          "posicao": "Goleiro",
+          "idade": "30",
+          "altura": "",
+          "pePreferido": "1,86m",
+          "valorDeMercado": 700000
+        },
+        {
+          "nome": "Rafael",
+          "posicao": "Goleiro",
+          "idade": "34",
+          "altura": "1,92m",
+          "pePreferido": "esquerdo",
+          "valorDeMercado": 400000
+        },
+        {
+          "nome": "Felipe Alves",
+          "posicao": "Goleiro",
+          "idade": "35",
+          "altura": "",
+          "pePreferido": "1,87m",
+          "valorDeMercado": 300000
+        },
+        {
+          "nome": "Young",
+          "posicao": "Goleiro",
+          "idade": "21",
+          "altura": "2,02m",
+          "pePreferido": "direito",
+          "valorDeMercado": 100000
+        },
+        {
+          "nome": "Lucas Beraldo",
+          "posicao": "Zagueiro",
+          "idade": "19",
+          "altura": "",
+          "pePreferido": "1,86m",
+          "valorDeMercado": 6000000
+        },
+        {
+          "nome": "Diego Costa",
+          "posicao": "Zagueiro",
+          "idade": "24",
+          "altura": "1,84m",
+          "pePreferido": "direito",
+          "valorDeMercado": 4000000
+        },
+        {
+          "nome": "Alan Franco",
+          "posicao": "Zagueiro",
+          "idade": "26",
+          "altura": "",
+          "pePreferido": "1,83m",
+          "valorDeMercado": 2000000
+        },
+        {
+          "nome": "Nahuel Ferraresi",
+          "posicao": "Zagueiro",
+          "idade": "24",
+          "altura": "1,90m",
+          "pePreferido": "direito",
+          "valorDeMercado": 1500000
+        },
+        {
+          "nome": "Robert Arboleda",
+          "posicao": "Zagueiro",
+          "idade": "31",
+          "altura": "",
+          "pePreferido": "1,89m",
+          "valorDeMercado": 1500000
+        },
+        {
+          "nome": "Walce",
+          "posicao": "Zagueiro",
+          "idade": "24",
+          "altura": "1,88m",
+          "pePreferido": "direito",
+          "valorDeMercado": 1000000
+        },
+        {
+          "nome": "Matheus Belém",
+          "posicao": "Zagueiro",
+          "idade": "20",
+          "altura": "",
+          "pePreferido": "1,86m",
+          "valorDeMercado": 200000
+        },
+        {
+          "nome": "Welington",
+          "posicao": "Lateral Esq.",
+          "idade": "22",
+          "altura": "1,75m",
+          "pePreferido": "esquerdo",
+          "valorDeMercado": 3000000
+        },
+        {
+          "nome": "Caio Paulista",
+          "posicao": "Lateral Esq.",
+          "idade": "25",
+          "altura": "",
+          "pePreferido": "1,84m",
+          "valorDeMercado": 3000000
+        },
+        {
+          "nome": "Patryck",
+          "posicao": "Lateral Esq.",
+          "idade": "20",
+          "altura": "1,81m",
+          "pePreferido": "esquerdo",
+          "valorDeMercado": 1500000
+        },
+        {
+          "nome": "Igor Vinícius",
+          "posicao": "Lateral Dir.",
+          "idade": "26",
+          "altura": "",
+          "pePreferido": "1,74m",
+          "valorDeMercado": 3000000
+        },
+        {
+          "nome": "João Moreira",
+          "posicao": "Lateral Dir.",
+          "idade": "19",
+          "altura": "1,76m",
+          "pePreferido": "direito",
+          "valorDeMercado": 2000000
+        },
+        {
+          "nome": "Nathan Mendes",
+          "posicao": "Lateral Dir.",
+          "idade": "21",
+          "altura": "",
+          "pePreferido": "1,82m",
+          "valorDeMercado": 600000
+        },
+        {
+          "nome": "Raí Ramos",
+          "posicao": "Lateral Dir.",
+          "idade": "29",
+          "altura": "1,79m",
+          "pePreferido": "direito",
+          "valorDeMercado": 500000
+        },
+        {
+          "nome": "Rafinha",
+          "posicao": "Lateral Dir.",
+          "idade": "37",
+          "altura": "",
+          "pePreferido": "1,72m",
+          "valorDeMercado": 200000
+        },
+        {
+          "nome": "Pablo Maia",
+          "posicao": "Volante",
+          "idade": "21",
+          "altura": "1,78m",
+          "pePreferido": "direito",
+          "valorDeMercado": 7000000
+        },
+        {
+          "nome": "Luan",
+          "posicao": "Volante",
+          "idade": "24",
+          "altura": "",
+          "pePreferido": "1,75m",
+          "valorDeMercado": 4000000
+        },
+        {
+          "nome": "Gabriel Neves",
+          "posicao": "Volante",
+          "idade": "26",
+          "altura": "1,71m",
+          "pePreferido": "direito",
+          "valorDeMercado": 2500000
+        },
+        {
+          "nome": "Jhegson Méndez",
+          "posicao": "Volante",
+          "idade": "26",
+          "altura": "",
+          "pePreferido": "1,70m",
+          "valorDeMercado": 2500000
+        },
+        {
+          "nome": "Rodrigo Nestor",
+          "posicao": "Meia Central",
+          "idade": "23",
+          "altura": "1,75m",
+          "pePreferido": "esquerdo",
+          "valorDeMercado": 7000000
+        },
+        {
+          "nome": "Rodriguinho",
+          "posicao": "Meia Central",
+          "idade": "19",
+          "altura": "",
+          "pePreferido": "1,85m",
+          "valorDeMercado": 2500000
+        },
+        {
+          "nome": "Talles Costa",
+          "posicao": "Meia Central",
+          "idade": "21",
+          "altura": "1,76m",
+          "pePreferido": "direito",
+          "valorDeMercado": 2000000
+        },
+        {
+          "nome": "Alisson",
+          "posicao": "Meia Central",
+          "idade": "30",
+          "altura": "",
+          "pePreferido": "1,74m",
+          "valorDeMercado": 500000
+        },
+        {
+          "nome": "Pedro Vilhena",
+          "posicao": "Meia Central",
+          "idade": "21",
+          "altura": "1,75m",
+          "pePreferido": "direito",
+          "valorDeMercado": 250000
+        },
+        {
+          "nome": "Giuliano Galoppo",
+          "posicao": "Meia Ofensivo",
+          "idade": "24",
+          "altura": "",
+          "pePreferido": "1,79m",
+          "valorDeMercado": 8000000
+        },
+        {
+          "nome": "James Rodríguez",
+          "posicao": "Meia Ofensivo",
+          "idade": "32",
+          "altura": "1,81m",
+          "pePreferido": "esquerdo",
+          "valorDeMercado": 6000000
+        },
+        {
+          "nome": "Michel Araújo",
+          "posicao": "Meia Ofensivo",
+          "idade": "26",
+          "altura": "",
+          "pePreferido": "1,78m",
+          "valorDeMercado": 2000000
+        },
+        {
+          "nome": "Wellington Rato",
+          "posicao": "Meia Ofensivo",
+          "idade": "31",
+          "altura": "1,72m",
+          "pePreferido": "esquerdo",
+          "valorDeMercado": 1000000
+        },
+        {
+          "nome": "Marcos Paulo",
+          "posicao": "Ponta Esquerda",
+          "idade": "22",
+          "altura": "",
+          "pePreferido": "1,86m",
+          "valorDeMercado": 4000000
+        },
+        {
+          "nome": "David",
+          "posicao": "Ponta Esquerda",
+          "idade": "27",
+          "altura": "1,80m",
+          "pePreferido": "direito",
+          "valorDeMercado": 1500000
+        },
+        {
+          "nome": "Lucas Moura",
+          "posicao": "Ponta Direita",
+          "idade": "31",
+          "altura": "",
+          "pePreferido": "1,72m",
+          "valorDeMercado": 6000000
+        },
+        {
+          "nome": "Jonathan Calleri",
+          "posicao": "Centroavante",
+          "idade": "29",
+          "altura": "1,81m",
+          "pePreferido": "direito",
+          "valorDeMercado": 4000000
+        },
+        {
+          "nome": "Erison",
+          "posicao": "Centroavante",
+          "idade": "24",
+          "altura": "",
+          "pePreferido": "1,80m",
+          "valorDeMercado": 3000000
+        },
+        {
+          "nome": "Luciano",
+          "posicao": "Centroavante",
+          "idade": "30",
+          "altura": "1,80m",
+          "pePreferido": "esquerdo",
+          "valorDeMercado": 2500000
+        },
+        {
+          "nome": "Juan",
+          "posicao": "Centroavante",
+          "idade": "21",
+          "altura": "",
+          "pePreferido": "1,77m",
+          "valorDeMercado": 1000000
+        },
+        {
+          "nome": "Alexandre Pato",
+          "posicao": "Centroavante",
+          "idade": "33",
+          "altura": "1,80m",
+          "pePreferido": "direito",
+          "valorDeMercado": 700000
+        }
+      ]
+    },
+    "Vasco": {
+      "plantel": [
+        {
+          "nome": "Léo Jardim",
+          "posicao": "Goleiro",
+          "idade": "28",
+          "altura": "",
+          "pePreferido": "1,88m",
+          "valorDeMercado": 3000000
+        },
+        {
+          "nome": "Ivan",
+          "posicao": "Goleiro",
+          "idade": "26",
+          "altura": "1,96m",
+          "pePreferido": "direito",
+          "valorDeMercado": 1800000
+        },
+        {
+          "nome": "Halls",
+          "posicao": "Goleiro",
+          "idade": "24",
+          "altura": "",
+          "pePreferido": "1,98m",
+          "valorDeMercado": 200000
+        },
+        {
+          "nome": "Léo",
+          "posicao": "Zagueiro",
+          "idade": "27",
+          "altura": "1,83m",
+          "pePreferido": "esquerdo",
+          "valorDeMercado": 3500000
+        },
+        {
+          "nome": "Manuel Capasso",
+          "posicao": "Zagueiro",
+          "idade": "27",
+          "altura": "",
+          "pePreferido": "1,89m",
+          "valorDeMercado": 2500000
+        },
+        {
+          "nome": "Robson Bambu",
+          "posicao": "Zagueiro",
+          "idade": "25",
+          "altura": "1,86m",
+          "pePreferido": "direito",
+          "valorDeMercado": 2500000
+        },
+        {
+          "nome": "Miranda",
+          "posicao": "Zagueiro",
+          "idade": "23",
+          "altura": "",
+          "pePreferido": "1,81m",
+          "valorDeMercado": 600000
+        },
+        {
+          "nome": "Maicon",
+          "posicao": "Zagueiro",
+          "idade": "34",
+          "altura": "1,91m",
+          "pePreferido": "direito",
+          "valorDeMercado": 350000
+        },
+        {
+          "nome": "Zé Vitor",
+          "posicao": "Zagueiro",
+          "idade": "21",
+          "altura": "",
+          "pePreferido": "1,92m",
+          "valorDeMercado": 250000
+        },
+        {
+          "nome": "Lucas Piton",
+          "posicao": "Lateral Esq.",
+          "idade": "22",
+          "altura": "1,75m",
+          "pePreferido": "esquerdo",
+          "valorDeMercado": 6000000
+        },
+        {
+          "nome": "Riquelme",
+          "posicao": "Lateral Esq.",
+          "idade": "21",
+          "altura": "",
+          "pePreferido": "1,73m",
+          "valorDeMercado": 1500000
+        },
+        {
+          "nome": "Jefferson",
+          "posicao": "Lateral Esq.",
+          "idade": "26",
+          "altura": "1,76m",
+          "pePreferido": "esquerdo",
+          "valorDeMercado": 500000
+        },
+        {
+          "nome": "José Luis Rodríguez",
+          "posicao": "Lateral Dir.",
+          "idade": "26",
+          "altura": "",
+          "pePreferido": "1,83m",
+          "valorDeMercado": 3000000
+        },
+        {
+          "nome": "Gabriel Dias",
+          "posicao": "Lateral Dir.",
+          "idade": "29",
+          "altura": "1,83m",
+          "pePreferido": "direito",
+          "valorDeMercado": 750000
+        },
+        {
+          "nome": "Paulo Henrique",
+          "posicao": "Lateral Dir.",
+          "idade": "27",
+          "altura": "",
+          "pePreferido": "1,75m",
+          "valorDeMercado": 300000
+        },
+        {
+          "nome": "Patrick de Lucca",
+          "posicao": "Volante",
+          "idade": "23",
+          "altura": "1,80m",
+          "pePreferido": "direito",
+          "valorDeMercado": 1800000
+        },
+        {
+          "nome": "Zé Gabriel",
+          "posicao": "Volante",
+          "idade": "24",
+          "altura": "",
+          "pePreferido": "1,84m",
+          "valorDeMercado": 1500000
+        },
+        {
+          "nome": "Gary Medel",
+          "posicao": "Volante",
+          "idade": "36",
+          "altura": "1,71m",
+          "pePreferido": "direito",
+          "valorDeMercado": 800000
+        },
+        {
+          "nome": "Mateus Carvalho",
+          "posicao": "Volante",
+          "idade": "21",
+          "altura": "",
+          "pePreferido": "1,84m",
+          "valorDeMercado": 100000
+        },
+        {
+          "nome": "Praxedes",
+          "posicao": "Meia Central",
+          "idade": "21",
+          "altura": "1,86m",
+          "pePreferido": "esquerdo",
+          "valorDeMercado": 6000000
+        },
+        {
+          "nome": "Jair",
+          "posicao": "Meia Central",
+          "idade": "29",
+          "altura": "",
+          "pePreferido": "1,78m",
+          "valorDeMercado": 5000000
+        },
+        {
+          "nome": "Marlon Gomes",
+          "posicao": "Meia Central",
+          "idade": "19",
+          "altura": "1,76m",
+          "pePreferido": "direito",
+          "valorDeMercado": 4000000
+        },
+        {
+          "nome": "Paulinho Paula",
+          "posicao": "Meia Central",
+          "idade": "26",
+          "altura": "",
+          "pePreferido": "1,75m",
+          "valorDeMercado": 1000000
+        },
+        {
+          "nome": "Matías Galarza",
+          "posicao": "Meia Central",
+          "idade": "21",
+          "altura": "1,75m",
+          "pePreferido": "esquerdo",
+          "valorDeMercado": 1000000
+        },
+        {
+          "nome": "Cauan Barros",
+          "posicao": "Meia Central",
+          "idade": "19",
+          "altura": "",
+          "pePreferido": "1,83m",
+          "valorDeMercado": 500000
+        },
+        {
+          "nome": "Dimitri Payet",
+          "posicao": "Meia Ofensivo",
+          "idade": "36",
+          "altura": "1,75m",
+          "pePreferido": "direito",
+          "valorDeMercado": 1800000
+        },
+        {
+          "nome": "Rayan",
+          "posicao": "Meia Ofensivo",
+          "idade": "17",
+          "altura": "",
+          "pePreferido": "1,85m",
+          "valorDeMercado": 1500000
+        },
+        {
+          "nome": "Alex Teixeira",
+          "posicao": "Meia Ofensivo",
+          "idade": "33",
+          "altura": "1,73m",
+          "pePreferido": "direito",
+          "valorDeMercado": 1000000
+        },
+        {
+          "nome": "Gabriel Carabajal",
+          "posicao": "Meia Ofensivo",
+          "idade": "32",
+          "altura": "",
+          "pePreferido": "1,78m",
+          "valorDeMercado": 600000
+        },
+        {
+          "nome": "Figueiredo",
+          "posicao": "Ponta Esquerda",
+          "idade": "22",
+          "altura": "1,78m",
+          "pePreferido": "direito",
+          "valorDeMercado": 2000000
+        },
+        {
+          "nome": "Erick Marcus",
+          "posicao": "Ponta Esquerda",
+          "idade": "19",
+          "altura": "",
+          "pePreferido": "1,77m",
+          "valorDeMercado": 1000000
+        },
+        {
+          "nome": "Luca Orellano",
+          "posicao": "Ponta Direita",
+          "idade": "23",
+          "altura": "1,78m",
+          "pePreferido": "esquerdo",
+          "valorDeMercado": 4500000
+        },
+        {
+          "nome": "Gabriel Pec",
+          "posicao": "Ponta Direita",
+          "idade": "22",
+          "altura": "",
+          "pePreferido": "1,72m",
+          "valorDeMercado": 3000000
+        },
+        {
+          "nome": "Serginho",
+          "posicao": "Ponta Direita",
+          "idade": "28",
+          "altura": "1,80m",
+          "pePreferido": "direito",
+          "valorDeMercado": 1300000
+        },
+        {
+          "nome": "Rossi",
+          "posicao": "Ponta Direita",
+          "idade": "30",
+          "altura": "",
+          "pePreferido": "1,67m",
+          "valorDeMercado": 900000
+        },
+        {
+          "nome": "Sebastián Ferreira",
+          "posicao": "Centroavante",
+          "idade": "25",
+          "altura": "1,80m",
+          "pePreferido": "direito",
+          "valorDeMercado": 4500000
+        },
+        {
+          "nome": "Pablo Vegetti",
+          "posicao": "Centroavante",
+          "idade": "34",
+          "altura": "",
+          "pePreferido": "1,87m",
+          "valorDeMercado": 500000
+        }
+      ]
+    }
+  }
+}
