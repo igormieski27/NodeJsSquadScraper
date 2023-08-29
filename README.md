@@ -1,6 +1,7 @@
 # Projeto de Web Scraping usando Node.js e Cheerio para o site Transfermarkt 
 
-Este é um projeto em Node.js que utiliza a biblioteca Cheerio para realizar web scraping de dados do site Transfermarkt. O projeto inclui um script que extrai informações de jogadores e calcula uma "força" com base em seu valor de mercado.
+Este é um projeto em Node.js que utiliza a biblioteca Cheerio para realizar web scraping de dados do site Transfermarkt. O projeto inclui um script que extrai informações de jogadores e um que calcula uma "força" com base em seu valor de mercado.
+É necessário adicionar os times que você quer capturar as escalações no array de urls. depois disso, é só rodar o script scrape.js. 
 
 Pré-requisitos
 
